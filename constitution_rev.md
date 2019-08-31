@@ -3,13 +3,12 @@
 ## Part 1: Foundation
 ### Section 1: Preamble
 #### Paragraph 1: Preface
-The citizen of Promatia, all whome care for the future of our civilization; through advancing our government. A government on the front of technology. That maintains governance by allowing freedom and liberty for all people; regardless of their categorial traits or the circumstances of their birth. People who wish to defend the land held dear to our hearth. Therefore, have sestablished this government of Promatia in order to:
+The citizen of Promatia, all of whome care for the future of our nation by advancing our government, wish to establish a government that uses the advancements of technology to governs under the creed of freedom and liberty for all people, regardless of their categorial traits or the circumstances of their birth and which government will defend the land held dear to our hearts, and therefore, have established this Government of Promatia in order to:
 
-- (a) establis a nation and government,
-- (b) improve living standards; using technology and modern infrastructure techniques,
-- (c) create a fairer system of governance through direct democracy,
-- (d) promote the welfare of our citizens, and
-- (e) secure the right the land universally given.
+- (a) establish and protect our nation and government,
+- (b) improve living standards using technology and modern infrastructure techniques,
+- (c) create a fairer system of governance through direct democracy, and to
+- (d) promote the welfare of our citizens
 
 ### Section 2: Purpose
 #### Paragraph 1: Purpose of the Constitution
@@ -55,13 +54,13 @@ The process to amend the constitution or any of its protected acts is as follows
 ## Part 2: National Identity
 ### Section 1: General
 #### Paragraph 1: Name
-This country shall be officially referred to as **Promatia**, and its government shall be referred to as the **Government of Promatia**.
+This country shall be officially referred to as Promatia, and its government shall be referred to as the Government of Promatia.
 
 #### Paragraph 2: Motto
 Promatia's official national motto shall be *Vi veri vniversum vivus vici.*, meaning "By the power of truth, I while living, have conquered the universe.".
 
 #### Paragraph 3: Capital
-Promatia's capital is **Lumina**, Promatia's first city.
+Promatia's capital is Lumina, Promatia's first city.
 
 #### Paragraph 4: Language
 Promatia's official language is Australian English, with a IETF BCP 47 language tag of `en-au`.
