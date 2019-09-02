@@ -195,9 +195,9 @@ The number of seats available for Genesis Council election must contain exactly 
 The direct democracy holds a continuous optional Instant Runoff Voting on candidates, where citizens can change their vote and preferences at any time. Candidates may apply through the Assembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
 
 #### Paragraph 3: Death or Unavailability of a Gen
-In case of temporary or permanent disappearance, coma, death, or other long-term unconsciousness which affects a capability to fulfil the duties or responsibilities of a Gen. They are removed from the Genesis Council and replaced with the next in line of succession. The votes they have received are still retained, and remain valid.
+In case of temporary or permanent disappearance, coma, death, or other long-term unconsciousness which affects a capability to fulfil the duties or responsibilities of a Gen. They are dismissed from the Genesis Council and votes recalculated.  
 
-If the unavailable Gen becomes present and capable, and still hold a winning position. That Gen's position will be returned.
+If the unavailable Gen becomes present and capable, and still hold a winning position. That Gen's position will be returned. The votes they have received are still retained, and remain valid.
 
 ## Part 5: Law System
 ### Section 1: Preamble
