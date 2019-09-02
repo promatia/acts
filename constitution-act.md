@@ -3,7 +3,7 @@
 ## Part 1: Foundation
 ### Section 1: Preamble
 #### Paragraph 1: Preface
-The citizen of Promatia, all of whom care for the future of our nation by advancing our government, wish to establish a government that uses the advancements of technology to governs under the creed of freedom and liberty for all people, regardless of their categorial traits or the circumstances of their birth and which government will defend the land held dear to our hearts, and therefore, have established this Government of Promatia in order to:
+The citizens of Promatia, all of whom care for the future of our nation by advancing our government, wish to establish a government that uses the advancements of technology to governs under the creed of freedom and liberty for all people, regardless of their categorial traits or the circumstances of their birth and which government will defend the land held dear to our hearts, and therefore, have established this Government of Promatia in order to:
 
 - (a) establish and protect our nation and government,
 - (b) improve living standards using technology and modern infrastructure techniques,
@@ -93,10 +93,10 @@ The powers of scrutinizers include full authority to independently:
 #### Paragraph 3: Positions
 There shall exist elected through Instant Runoff Voting:
 - (a) 3 seats for scrutinizers, and
-- (b) Prime Executive Minister (PEM) for the Assembly EGI, voted for by the Assembly.
+- (b) Prime Executive Minister (PEM) for the EGI, elected using IRV
 
 #### Paragraph 4: Prime Executive Minister
-The PEM of the Proassembly EGI has full executive powers to develop and run the Proassembly EGI.
+The PEM of the EGI has full executive powers to develop and run the EGI.
 
 #### Paragraph 5: Funding of Proassembly
 The EGI must receive reasonable funding from the government to manage its operations.
@@ -211,7 +211,7 @@ Promatia's primary form of legislation is **Acts**. Acts can be drafted by any c
 
 ### Section 2: Hierarchy of Legislation
 #### Paragraph 1: Introduction
-Law follows a hierarchy of importance. Older, senior legislation is superseded by newer, junior legislation. The constitution and protected acts supersede even newly drafted legislation.
+Law follows a hierarchy of importance. Older legislation is superseded by newer legislation. The constitution and protected acts supersede even newly drafted legislation.
 
 EGIs may have the power to create and publish legally binding regulations, standards, and guidelines which are legally binding. Regulations, standards, and guidelines function as bylaws but don't supersede laws made through Acts and drafted legislation. 
 
