@@ -104,7 +104,7 @@ To vote you must:
 
 - (a) be over the age of 16 years or be legally emancipated, and
 - (b) be a full citizen of Promatia, and
-- (c) have no committed a felony in Promatia, or in any other country where such a crime would be considered a felony in Promatia.
+- (c) sentenced to no more than 10 years in Prison, and less than 5 years remaining
 
 ### Section 3: Legislative Process
 #### Paragraph 1: Development Stage
@@ -183,8 +183,10 @@ The Genesis Council holds the power to:
 ### Section 6: Membership
 #### Paragraph 1: Number of Gens
 The Genesis Council population must remain bounded within the following limitation:
-- (a) consist of at least 2 active and capable Gens, and
-- (b) contain exactly **the ceiled integer of 2.5 root of the citizen population** `\lceil\sqrt[2.5]{pop}\rceil`.
+- (a) consist of at least 8 active and capable Gens, and
+- (b) contain exactly **the ceiled integer of 2.5 root of the citizen population**
+
+![\lceil\sqrt[2.5]{pop}\rceil](https://latex.codecogs.com/svg.latex?%5CLARGE%20%5Clceil%5Csqrt%5B2.5%5Dpop%5Crceil)
 
 #### Paragraph 2: Direct Democracy Election System
 The direct democracy holds an contininous optional Instant Runoff Voting on candidates, where citizens are able to change their vote and preferences at any time. Any new winning candidates must swear the Gen Oath before becoming a member of the Genesis Council. Candidates may apply through the Assembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
