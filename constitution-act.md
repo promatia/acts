@@ -72,10 +72,10 @@ Blue and White.
 #### Paragraph 2: Design Placement
 The pentark symbol, white in colour, centred on a 1:2 ratio field of blue.
 
-## Part 3: Citizen's Assembly
+## Part 3: Proassembly
 ### Section 1: Incorporation
 #### Paragraph 1: Preface
-There shall exist an Assembly EGI, which is Promatia's Direct Democracy. It is a public assembly that consists of all Promatia's citizens who are eligible to vote. All eligible citizens can:
+There shall exist a Proassembly EGI, which is Promatia's Direct Democracy. It is a public assembly that consists of all Promatia's citizens who are eligible to vote. All eligible citizens can:
 
 - (a) draft and propose acts,
 - (b) elect EGI leaders where the law allows; using optional Instant Runoff Voting,
@@ -96,7 +96,10 @@ There shall exist elected through Instant Runoff Voting:
 - (b) Prime Executive Minister (PEM) for the Assembly EGI, voted for by the Assembly.
 
 #### Paragraph 4: Prime Executive Minister
-The PEM of the Assembly EGI has full executive powers to develop and run the Assembly EGI. The Assembly must receive reasonable funding from the government to manage its operations.
+The PEM of the Proassembly EGI has full executive powers to develop and run the Proassembly EGI.
+
+#### Paragraph 5: Funding of Proassembly
+The EGI must receive reasonable funding from the government to manage its operations.
 
 ### Section 2: Eligibility to Vote
 #### Paragraph 1: Requirements to Gain Suffrage
@@ -108,7 +111,7 @@ To vote you must:
 
 ### Section 3: Legislative Process
 #### Paragraph 1: Drafting Stage
-Citizens may draft, discuss, debate, improve, and scrutinize changes to legislation via the Legislation Development & Debate platform provided by the Assembly EGI. Citizens may use this development stage as an opportunity to:
+Citizens may draft, discuss, debate, improve, and scrutinize changes to legislation via the Legislation Development & Debate platform provided by the Proassembly EGI. Citizens may use this development stage as an opportunity to:
 
 - (a) draft new legislation,
 - (b) appeal to replace or ratify existing legislation, or
@@ -126,7 +129,7 @@ Citizens may draft, discuss, debate, improve, and scrutinize changes to legislat
 During the voting stage, a simple majority vote begins, and citizens have one week to complete their vote. If approval of the change is greater than `50%`, a majority, by the end of the voting period; the vote is accepted.
 
 ### Section 4: Instant Runoff Voting
-The Assembly will use a continuous live election Instant Runoff Voting system for electing and filling EGI electable positions, where citizens may change voting preferences at any time.
+The Proassembly will use a continuous live election Instant Runoff Voting system for electing and filling EGI electable positions, where citizens may change voting preferences at any time.
 
 ## Part 4: Genesis Council
 ### Section 1: Incorporation
@@ -179,11 +182,14 @@ For non-legislative matters within the Genesis Council:
 ### Section 5: Powers of the Genesis Council
 The Genesis Council holds the power to:
 
-- (a) propose new legislation for Promatia,
-- (b) propose changes to existing legislation,
-- (c) propose a repeal or replacement of existing legislation,
-- (d) appoint, terminate, and hire leaders and staff of EGIs, and
-- (e) pardon crimes or convictions.
+- (a) propose new legislation for Promatia.
+- (b) propose changes to existing legislation.
+- (c) propose a repeal or replacement of existing legislation.
+- (d) appoint, terminate, and hire leaders and staff of EGIs where applicable by law.
+- (e) collectively pardon crimes or convictions.
+
+### Section 6: In case of Proassembly unavailability
+If the Proassembly is not available for any reason in it's required capacity, the Genesis Council may collectively pass laws, however each vote requires `75%+` approval
 
 ### Section 6: Membership
 #### Paragraph 1: Number of Gens
@@ -192,7 +198,7 @@ The number of seats available for Genesis Council election must contain exactly 
 ![\lceil\sqrt[2.5]{pop}\rceil](https://latex.codecogs.com/svg.latex?%5Clarge%20Seats%5C%20Available%3D%20%5Clceil%5Csqrt%5B2.5%5D%20citizen%5C%20population%5Crceil)
 
 #### Paragraph 2: Genesis Council Election System
-The direct democracy holds a continuous optional Instant Runoff Voting on candidates, where citizens can change their vote and preferences at any time. Candidates may apply through the Assembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
+The direct democracy holds a continuous optional Instant Runoff Voting on candidates, where citizens can change their vote and preferences at any time. Candidates may apply through the Proassembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
 
 #### Paragraph 3: Death or Unavailability of a Gen
 In case of temporary or permanent disappearance, coma, death, or other long-term unconsciousness which affects a capability to fulfil the duties or responsibilities of a Gen. They are dismissed from the Genesis Council and votes recalculated.  
@@ -201,7 +207,7 @@ If the unavailable Gen becomes present and capable, and still hold a winning pos
 
 ## Part 5: Law System
 ### Section 1: Preamble
-Promatia's primary form of legislation is **Acts**. Acts can be drafted by any citizen. When approved by the Assembly, they become legally binding.
+Promatia's primary form of legislation is **Acts**. Acts can be drafted by any citizen. When approved by the Proassembly, they become legally binding.
 
 ### Section 2: Hierarchy of Legislation
 #### Paragraph 1: Introduction
