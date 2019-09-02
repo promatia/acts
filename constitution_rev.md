@@ -184,9 +184,7 @@ The Genesis Council holds the power to:
 #### Paragraph 1: Number of Gens
 The Genesis Council population must remain bounded within the following limitation:
 - (a) consist of at least 2 active and capable Gens, and
-- (b) contain exactly **the ceiled integer of 2.5 root of the citizen population** ^([1])
-
-^([1]) `\lceil\sqrt[2.5]{pop}\rceil`.
+- (b) contain exactly **the ceiled integer of 2.5 root of the citizen population** `\lceil\sqrt[2.5]{pop}\rceil`.
 
 #### Paragraph 2: Direct Democracy Election System
 The direct democracy holds an contininous optional Instant Runoff Voting on candidates, where citizens are able to change their vote and preferences at any time. Any new winning candidates must swear the Gen Oath before becoming a member of the Genesis Council. Candidates may apply through the Assembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
