@@ -103,8 +103,7 @@ The PEM of the Assembly EGI has full executive powers to develop and run the Ass
 To vote you must:
 
 - (a) be over the age of 16 years or be legally emancipated, and
-- (b) be a full citizen of Promatia, and
-- (c) have no committed a felony in Promatia, or in any other country where such a crime would be considered a felony in Promatia.
+- (b) be a full citizen of Promatia.git
 
 ### Section 3: Legislative Process
 #### Paragraph 1: Development Stage
