@@ -106,12 +106,7 @@ The EGI must receive reasonable funding from the government to manage its operat
 To vote you must:
 
 - (a) be over the age of 16 years or be legally emancipated, and
-<<<<<<< HEAD:constitution_rev.md
-- (b) be a full citizen of Promatia.git
-=======
-- (b) be a full citizen of Promatia, and
-- (c) sentenced to no more than 10 years in prison, and less than 5 years remaining
->>>>>>> bede1af2c95a2297ceac50da827f0bcd9534532c:constitution-act.md
+- (b) be a full citizen of Promatia.
 
 ### Section 3: Legislative Process
 #### Paragraph 1: Drafting Stage
