@@ -200,7 +200,7 @@ For non-legislative matters within the Senate:
 - (4) Senator hold a simple majority vote on whether to implement the initiative.
 
 ### Section 5: Powers of the Senator
-The Senator holds the power to:
+The Senate holds the power to:
 
 - (a) propose new legislation for Promatia,
 - (b) propose changes to existing legislation,
