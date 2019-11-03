@@ -47,13 +47,12 @@ All terminology in reference to members government, its staff, and organizations
 - (b) Promatian - The demonym of a registered citizen of the nation of Promatia.
 - (c) National - A citizen who lives within the territory of Promatia, is a registered inlisted member of the Promatian Military, or who is a member of government staff with a security clearance.
 - (d) Extranational - A non-promatian citizen.
-- (e) Senator - The highest order of authority of the Promatian government.
+- (e) Senator - The highest order of authority of the Promatian government, and authority over a single Government Department. A member of the Senate.
 - (f) Senate - The collection of all senators in Promatia.
 - (g) Government Department - An autonomous branch, legislative, executive, or judicial organization within Promatia lead by an elected minister.
-- (h) Minister - The highest order of authority over a single Government Department.
-- (i) Ministry - The collection of all ministers.
-- (j) Voter - A citzen of the population of Promatia with permission to vote.
-- (k) Assembly - The collection of all voting members of the populous.
+- (h) Minister - The highest order of authority over a single Government Department, and a member of the Senate. All Ministers are Senators.
+- (i) Voter - A citzen of the population of Promatia with permission to vote.
+- (j) Assembly - The collection of all voting members of the populous.
 
 ### Section 4: Constitutional Amendments
 #### Paragraph 1: Parts Subject to Amendments
@@ -107,12 +106,12 @@ The powers of scrutinizers include full authority to independently:
 - (a) examine, audit, and inspect the voting system for corruption,
 - (b) audit Government Departments, their systems, processes, finances, and staff,
 - (c) publish public official reports on the integrity their systems, and
-- (d) file lawsuits against a Minister or the Ministry through the Supreme Court.
+- (d) file lawsuits against a Minister their Government Department through the Supreme Court.
 
 #### Paragraph 3: Positions
 There shall exist elected through Instant Runoff Voting:
 - (a) 3 seats for scrutinizers, and
-- (b) 1 seat for the Minister of a government, elected using IRV, or STV where applicable.
+- (b) 1 seat for the Minister of a Government Department, elected using IRV, or STV where applicable.
 
 #### Paragraph 4: Ministers
 The Minister of a Government Department an has full executive powers to develop and run that GD.
@@ -162,7 +161,7 @@ The responsibilities of the Senate is to collectively:
 - (b) create, propose, and improve legislation,
 - (c) create Government Departments,
 - (d) delegate, and provide power to enable GDs
-- (e) elect GD Ministers,
+- (e) elect GD Ministers when privileged,
 - (f) purge corruption within the government
 - (g) lead the nation towards its vision,
 - (h) maintain the nation as a self-sustaining machine, and 
@@ -179,7 +178,8 @@ The responsibilities of an individual Senator is to:
 - (f) make decisions on behalf of the nation for its benefit, even at a cost of their benefit,
 - (g) engage in Senate votes,
 - (h) connect and network relevant citizen together,
-- (i) fulfil the responsibilities and duties of the Senate.
+- (i) fulfil the responsibilities and duties of the Senate, and
+- (j) manage at least one government department as Minister of that department.
 
 ### Section 4: Senate Voting Protocol
 #### Paragraph 1: Legislative Protocol
@@ -188,7 +188,7 @@ For the Senate, the legislative process is as follows:
 - (1) A Senator proposes a change in the law.
 - (2) If the change in the law is urgent, then:
     - (a) Senators may have a vote to reduce the direct democracy voting period down to 8 hours.
-    - (b) If the vote passes with at least `75%+` approval in the Senate, then the law is proposed as an urgent law.
+    - (b) If the vote passes with at least `75%` approval in the Senate, then the law is proposed as an urgent law.
 - (3) The law is proposed to the direct democracy.
 
 #### Paragraph 2: Initiatives
@@ -202,20 +202,19 @@ For non-legislative matters within the Senate:
 ### Section 5: Powers of the Senator
 The Senator holds the power to:
 
-- (a) propose new legislation for Promatia.
-- (b) propose changes to existing legislation.
-- (c) propose a repeal or replacement of existing legislation.
-- (d) appoint, terminate, and hire leaders and staff of Government Department where applicable by law, or in times of national crisis
-- (e) collectively pardon crimes or convictions.
+- (a) propose new legislation for Promatia,
+- (b) propose changes to existing legislation,
+- (c) propose a repeal or replacement of existing legislation,
+- (d) appoint, terminate, and hire leaders and staff of Government Department where applicable by law, in times of national crisis or disestablishment of the direct democracy,
+- (e) collectively pardon crimes or convictions, and
+- (f) vote for ratifications at a majority vote with at least `50%` approval in times of disestablishment of the direct democracy.
 
 ### Section 6: In case of the unavailability of the Assembly
 If the Assembly is not available for any reason in it's required capacity, the Senate may collectively pass laws, however each vote requires `75%+` approval.
 
 ### Section 6: Membership
 #### Paragraph 1: Number of Senators
-The number of seats available for Senate election must contain exactly **the ceiled integer of 2.5 root of the citizen population**
-
-![\lceil\sqrt[2.5]{pop}\rceil](https://latex.codecogs.com/svg.latex?%5Clarge%20Seats%5C%20Available%3D%20%5Clceil%5Csqrt%5B2.5%5D%20citizen%5C%20population%5Crceil)
+The number of seats available for Senate election must contain exactly the number of Government departments
 
 #### Paragraph 2: Senate Election System
 The direct democracy holds a continuous Instant Runoff Voting on candidates, where citizens can change their vote and preferences at any time. Candidates may apply through the Assembly Government Department, who must include them in the public candidate database, where citizens will be able to vote for them.
