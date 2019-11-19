@@ -9,16 +9,16 @@ The jurisdiction of this Act is under the jurisdiction of the Ministry of Police
 
 # Part 2: Crimes
 
-## Section 1 - Terrorism and Treason
+## Section 1: Terrorism and Treason
 
-### Segment 1 - Terrorist Organisation Membership
+### Segment 1: Terrorist Organisation Membership
 A person commits an offence if these two conditions are met:
 
 - The person is a member of a terrorist organisation
 
 - The person knows the organisation is a terrorist organisation
 
-### Segment 2 - Terrorist Activities
+### Segment 2: Terrorist Activities
 A person commits an offence if:
 
 They do or conspire to:
