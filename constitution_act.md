@@ -209,10 +209,10 @@ The Senate holds the power to:
 - (e) collectively pardon crimes or convictions, and
 - (f) vote for ratifications at a majority vote with at least `50%` approval in times of disestablishment of the direct democracy.
 
-### Section 6: In case of the unavailability of the Assembly
-If the Assembly is not available for any reason in it's required capacity, the Senate may collectively pass laws, however each vote requires `75%+` approval.
+### Section 6: Unavailability of the Assembly
+If the Assembly is not available for any reason in its required capacity, the Senate may collectively pass laws, however each vote requires `75%+` approval.
 
-### Section 6: Membership
+### Section 7: Membership
 #### Paragraph 1: Number of Senators
 The number of seats available for Senate election must contain exactly the number of Government departments
 
