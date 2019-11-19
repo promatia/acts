@@ -16,3 +16,5 @@ The following must be worked on:
 - **Using, Sharing, and Returning Documents** Write the section: https://github.com/promatia/acts/blob/master/act_proposals/police_act.md#section-16---criminal-groups
 
 - **Police Powers** Write the section: https://github.com/promatia/acts/blob/master/act_proposals/police_act.md#section-16---criminal-groups
+
+- **Table of contents**
