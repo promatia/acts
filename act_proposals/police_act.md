@@ -5,7 +5,7 @@ This act sets out the basic laws, crimes, and offenses in our nation, to prevent
 
 
 ## Section 2: Jurisdiction
-The jurisdiction of this Act is under the jurisdiction of the Police EGI.
+The jurisdiction of this Act is under the jurisdiction of the Ministry of Police.
 
 # Part 2: Crimes
 
