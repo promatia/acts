@@ -1,257 +1,188 @@
-# Constitution Act
+# Division 1: Foundation
 
-## Part 1: Foundation
-### Section 1: Preamble
-#### Paragraph 1: Preface
-The citizens of Promatia, all of whom care for the future of our nation by advancing our government, wish to establish a government that uses the advancements of technology to governs under the creed of freedom and liberty for all people, regardless of their categorial traits or the circumstances of their birth and which government will defend the land held dear to our hearts, and therefore, have established this Government of Promatia in order to:
+## Section 1: Preamble
 
-- (a) establish and protect our nation and government,
-- (b) improve living standards using technology and modern infrastructure techniques,
-- (c) create a fairer system of governance through direct democracy, and to
-- (d) promote the welfare of our citizens
+We, the people of Promatia come together to unite and form an indissoluble government in order to promote the general welfare of all citizens so that they may enjoy their lives in the fullest, and to have a government that assists them with their ambitions.
 
-### Section 2: Purpose
-#### Paragraph 1: Purpose of the Constitution
+## Section 2: Purpose
+
 The purpose of this constitution is to:
 
-- (a) establish the existence of our nation,
-- (b) establish a system of justice,
-- (c) lay out the structure, function, and powers of the Government of Promatia,
-- (d) establish the Government Department (GD) system, and
-- (e) create a simple, pragmatic, direct democracy.
+1. Establish the existence of the nation of Promatia.
+2. Outline the structure, function, and powers of that nation’s government.
+3. Create the Assembly Ministry, that is the basis of the citizens' power over that government.
+4. Create the Judicial Ministry, established to interpret and apply the laws created by the Assembly Ministry.
+5. Enable the creation of ministries to enforce the law.
 
-#### Paragraph 2: Purpose of Promatia
-Promatia's purpose is to:
+## Section 3: Amendment Protocol
 
-- (a) Start a direct democracy, and provide sufficient safety nets for our citizens.
-- (b) Start a government where citizens have true democratic power.
-- (c) Create a community where its citizens feel welcomed.
-- (d) Improve the standard of living for all people through technology and infrastructure.
-- (e) Help citizens of the pacific islands from rising sea levels.
-- (f) Help the homeless population across the Australian continent.
-- (g) Give citizens a way to create a meaningful impact in their lives
-- (h) Remove corporate corruption found in representative democracies.
-- (i) Reduce bureaucracy through the application of digital governance.
-
-### Section 3: Interpretation
-#### Paragraph 1: Interpretation of Direct Democracy
-All further questions regarding the interpretation of this Constitution and the definition of Direct Democracy shall be decided by the Senate of Promatia or the Supreme Court of Promatia. If in conflict, the Supreme Court holds supremacy.
-
-- (a) **IRV** - Instant Runoff Voting, is the voting method of the Promatian Direct Democracy.
-- (b) **STV** - Single Transferable Voting, is the voting method when determining election with mutliple potential canidates or results.
-
-#### Paragraph 2: Terminology
-All terminology in reference to members government, its staff, and organizations must adhere to certain titles restricted to use by the Promatian government.
-
-- (a) Citizen - A registered person who has expressed Promatian loyalty who agrees to the contents of its constitution.
-- (b) Promatian - The demonym of a registered citizen of the nation of Promatia.
-- (c) National - A citizen who lives within the territory of Promatia, is a registered inlisted member of the Promatian Military, or who is a member of government staff with a security clearance.
-- (d) Extranational - A non-promatian citizen.
-- (e) Senator - The highest order of authority of the Promatian government, and authority over a single Government Department. A member of the Senate.
-- (f) Senate - The collection of all senators in Promatia.
-- (g) Government Department - An autonomous branch, legislative, executive, or judicial organization within Promatia lead by an elected minister.
-- (h) Minister - The highest order of authority over a single Government Department, and a member of the Senate. All Ministers are Senators.
-- (i) Voter - A citzen of the population of Promatia with permission to vote.
-- (j) Assembly - The collection of all voting members of the populous.
-
-### Section 4: Constitutional Amendments
-#### Paragraph 1: Parts Subject to Amendments
-All parts of this constitution and its protected acts are subject to change through amendment.
-
-#### Paragraph 2: Amendment Process
 The process to amend the constitution or any of its protected acts is as follows:
 
-- (1) A change is proposed.
-- (2) Voting about the change takes place for one month.
-- (3) If approval of the change is greater than `50%`, a majority, by the end of the voting period; the vote is accepted.
-- (4) The change is implemented.
+1. A change is proposed through the assembly by:
+    1. a petition.
+    2. a minister.
+2. Voting for the change takes place through the Assembly over a one month period.
+3. If approval of the change is above 50% after that period:
+    1. The change becomes an official amendment of the constitution.
+4. If approval of the change is below 50% after that period:
+    1. The change is dismissed.
 
-## Part 2: National Identity
-### Section 1: General
-#### Paragraph 1: Name
-This country shall be officially referred to as Promatia, and its government shall be referred to as the Government of Promatia.
+## Section 4: Definitions
 
-#### Paragraph 2: Motto
-Promatia's official national motto shall be *vi veri vniversum vivus vici*, meaning "By the power of truth, I while living, have conquered the universe.".
+1. Citizen: Deferred to the "Human Services Act”.
+2. Ministry: An official government organisation within the Promatian government, established by an act.
+3. Minister: An optional position within a ministry which grants a person with specific powers to run their ministry.
+4. Assembly: Deferred to the “Assembly Act”.
+5. Petition: Deferred to the “Assembly Act”.
 
-#### Paragraph 3: Capital
-Promatia's capital is Lumina, and will be Promatia's first city.
+# Division 2: Promatia
 
-#### Paragraph 4: Language
-Promatia's official language is Australian English, with an IETF BCP 47 language tag of `en-au`.
+## Section 1: Purpose
 
-### Section 2: Flag
-#### Paragraph 1: Colours
-Promatia Blue and White.
+The purpose of the government of Promatia is to:
 
-- (a) Promatia Blue - HEX(366fbe) RGB(54, 111, 190)
-- (b) White - HEX(ffffff) RGB(255, 255, 255)
+1. Establish a direct democracy that puts the power to create laws into the hands of its citizens.
+2. Give citizens a way to create a meaningful impact.
+3. Improve the standard of living for citizens of Promatia.
+4. House the homeless population of the Australian continent.
+5. Supply a safe zone for the citizens of pacific islands, to seek refuge from rising sea levels.
+6. Remove government and corporate corruption found in representative democracies.
+7. Reduce bureaucracy through the application of digital governance.
 
-#### Paragraph 2: Design Placement
-The pentark symbol, white in colour, centred on a 1:2 ratio field of blue.
+## Section 2: Name
 
-## Part 3: Assembly
-### Section 1: Incorporation
-#### Paragraph 1: Preface
-There shall exist a Assembly Government Department, which is Promatia's Direct Democracy. It is a public assembly that consists of all Promatia's citizens who are eligible to vote. All eligible citizens can:
+### Paragraph 1: Short Name
 
-- (a) draft and propose acts,
-- (b) elect Government Department Minsters where the law allows; using Instant Runoff Voting, or Single Transferable Vote where applicable
-- (c) discuss and debate proposed acts, and
-- (d) vote.
+The short name of the government shall be **Promatia**.
 
-#### Paragraph 2: Scruitinizers
-The powers of scrutinizers include full authority to independently:
+### Paragraph 2: Long Name
 
-- (a) examine, audit, and inspect the voting system for corruption,
-- (b) audit Government Departments, their systems, processes, finances, and staff,
-- (c) publish public official reports on the integrity their systems, and
-- (d) file lawsuits against a Minister their Government Department through the Supreme Court.
+The long name of the government shall be **Government of Promatia**.
 
-#### Paragraph 3: Positions
-There shall exist elected through Instant Runoff Voting:
-- (a) 3 seats for scrutinizers, and
-- (b) 1 seat for the Minister of a Government Department, elected using IRV, or STV where applicable.
+### Paragraph 3: Name of Promatian People
 
-#### Paragraph 4: Ministers
-The Minister of a Government Department an has full executive powers to develop and run that GD.
+The demonym of the people of Promatia shall be **Promatian**.
 
-#### Paragraph 5: Funding of the Assembly
-Government Departments must receive reasonable funding from the government to manage their operations, or be subject to closure.
+## Section 2: Motto
 
-### Section 2: Eligibility to Vote
-#### Paragraph 1: Requirements to Gain Suffrage
-To vote you must:
+The official mottos of Promatia shall be:
 
-- (a) be over the age of 16 years, or
-- (b) be legally emancipated, or
-- (c) be given permission by a parent or guardian, and
-- (d) be a non-temporary citizen of Promatia.
+1. **Vi veri vniversum vivus vici** a Latin phrase approximately meaning "By the power of truth, I while living, have conquered the universe.".
+2. **The Modern Solution To Governance**
 
-### Section 3: Legislative Process
-#### Paragraph 1: Drafting Stage
-Citizens may draft, discuss, debate, improve, and scrutinize changes to legislation via the Legislation Development & Debate platform provided by the Assembly Government Department. Citizens may use this development stage as an opportunity to:
+## Section 3: Flag
 
-- (a) draft new legislation,
-- (b) appeal to replace or ratify existing legislation, or
-- (c) modify or supersede existing legislation
+### Paragraph 1: Image
 
-#### Paragraph 2: Petition stage
-- (a) Citizens may publish their drafts for a petition. They will need to gather signatures before being published for a public vote.
-- (b) The number of signatures required is the **ceil square root (√) of the voting population.**
+### Paragraph 2: Colors
 
-![\lceil\sqrt[2.5]{pop}\rceil](https://latex.codecogs.com/svg.latex?%5Clarge%20Signatures%5C%20Required%3D%20%5Clceil%5Csqrt%20voting%5C%20population%5Crceil)
+1. Promatia Blue: Hexadecimal #366FBE
+2. White: Hexadecimal #FFFFFF
 
-- (c) During this petition stage, the proposed legislation may be scrutinized, but no more changes may be made to the draft document.
+## Section 4: State Emblem
 
-#### Paragraph 3: Voting stage
-During the voting stage, a simple majority vote begins, and citizens have one week to complete their vote. If approval of the change is greater than `50%`, a majority, by the end of the voting period; the vote is accepted.
+## Section 5: Capital City
 
-### Section 4: Instant Runoff Voting
-The Assembly will use a continuous live election Instant Runoff Voting system for electing and filling electable Goverment Department positions, where citizens may change voting preferences at any time. Single Tranferable Voting is used in cases where more than one seat is available.
+The capital city of Promatia shall be named **Lumina**.
 
-## Part 4: Senate
-### Section 1: Incorporation
-There shall exist a Senate Government Department, which is a council that is comprised of the national leaders of Promatia; all senators. Each member of this council is referred to individually as a Senator, or plurally as Senators.
+## Section 6: Language
 
-### Section 2: Responsibility of Senate
-The responsibilities of the Senate is to collectively:
+The official language of Promatia shall be **Australian English**, with the IETF BCP 47 Language Tag: en-au
 
-- (a) ensure national security, stability, and continuity of the nation,
-- (b) create, propose, and improve legislation,
-- (c) create Government Departments,
-- (d) delegate, and provide power to enable GDs
-- (e) elect GD Ministers when privileged,
-- (f) purge corruption within the government
-- (g) lead the nation towards its vision,
-- (h) maintain the nation as a self-sustaining machine, and 
-- (i) push the development of the nation as a whole, forward.
+# Division 2: Ministries
 
-### Section 3: Responsibility of a Senator
-The responsibilities of an individual Senator is to:
+## Section 1: Ministerial Powers
 
-- (a) maintain a high level of personal integrity, authenticity, and quality activity,
-- (b) maintain the safety and security of the nation,
-- (c) maintain a high level of quality
-- (d) act in the best interest of the nation and its citizens,
-- (e) represent the nation professionally, with honour and respect,
-- (f) make decisions on behalf of the nation for its benefit, even at a cost of their benefit,
-- (g) engage in Senate votes,
-- (h) connect and network relevant citizen together,
-- (i) fulfil the responsibilities and duties of the Senate, and
-- (j) manage at least one government department as Minister of that department.
+### Paragraph 1: Default Powers
 
-### Section 4: Senate Voting Protocol
-#### Paragraph 1: Legislative Protocol
-For the Senate, the legislative process is as follows:
+By default, Ministers have the power to:
 
-- (1) A Senator proposes a change in the law.
-- (2) If the change in the law is urgent, then:
-    - (a) Senators may have a vote to reduce the direct democracy voting period down to 8 hours.
-    - (b) If the vote passes with at least `75%` approval in the Senate, then the law is proposed as an urgent law.
-- (3) The law is proposed to the direct democracy.
+1. Propose acts to the assembly without a petition.
+2. Create regulations inside the scope granted to the ministry, and to repeal and modify regulations created by that ministry.
+3. Add or remove persons in their ministry, unless explicitly stated prevented by their bounding act.
+4. The power to order official directives.
 
-#### Paragraph 2: Initiatives
-For non-legislative matters within the Senate:
+### Paragraph 2: Delegation of Powers
 
-- (1) An initiative is raised by a Senator.
-- (2) Senator discuss the initiative.
-- (3) Senator conclude the discussion of the initiative.
-- (4) Senator hold a simple majority vote on whether to implement the initiative.
+Ministers may delegate A minister is responsible for actions performed by members of their ministry whom they have delegated their powers to.
 
-### Section 5: Powers of the Senator
-The Senate holds the power to:
+### Paragraph 3: Directives
 
-- (a) propose new legislation for Promatia,
-- (b) propose changes to existing legislation,
-- (c) propose a repeal or replacement of existing legislation,
-- (d) appoint, terminate, and hire leaders and staff of Government Department where applicable by law, in times of national crisis or disestablishment of the direct democracy,
-- (e) collectively pardon crimes or convictions, and
-- (f) vote for ratifications at a majority vote with at least `50%` approval in times of disestablishment of the direct democracy.
+Ministers may order official directives to members of their ministry to achieve a particular objective or result, within the bounds of the law.
 
-### Section 6: Unavailability of the Assembly
-If the Assembly is not available for any reason in its required capacity, the Senate may collectively pass laws, however each vote requires `75%+` approval.
+# Division 3: Law System
 
-### Section 7: Membership
-#### Paragraph 1: Number of Senators
-The number of seats available for Senate election must contain exactly the number of Government departments
+## Section 1: Introduction
 
-#### Paragraph 2: Senate Election System
-The direct democracy holds a continuous Instant Runoff Voting on candidates, where citizens can change their vote and preferences at any time. Candidates may apply through the Assembly Government Department, who must include them in the public candidate database, where citizens will be able to vote for them.
+1. Promatia's primary form of legislation is written Acts.
+2. Acts can be drafted by any citizen. When approved by the Assembly, they become legally binding.
+3. This constitution is an act.
 
-#### Paragraph 3: Death or Unavailability of a Senator
-In case of temporary or permanent disappearance, coma, death, or other long-term unconsciousness which affects a capability to fulfil the duties or responsibilities of a Senator. They are dismissed from the Senate and votes recalculated.
+## Section 2: Act System
 
-- (a) If the unavailable Senator becomes present and capable, and still hold a winning position; that Senator's position will be returned. The votes they have received are still retained, and remain valid.
-- (b) If the Senator is in acting duty of the Senate, the seat will reopen, and a vote will be undertaken to replace them.
+### Paragraph 1: Acts
 
-## Part 5: Law System
-### Section 1: Preamble
-Promatia's primary form of legislation are **Acts**. Acts can be drafted by any citizen. When approved by the Assembly, they become legally binding.
+1. Acts are Promatia’s form of binding law.
+2. Acts are passed by the assembly.
+3. Acts may be repealed, where they become no longer legally binding.
+4. Acts may replace & repeal older acts entirely.
+5. Acts may establish ministries and delegate powers to the positions within those ministries.
+6. Acts may codify punishments.
+7. Acts may declare a ministry as an administrator of its contents.
 
-### Section 2: Hierarchy of Legislation
-#### Paragraph 1: Introduction
-Law follows a hierarchy of importance. Older legislation is superseded by newer legislation. The constitution and protected acts supersede even newly drafted legislation.
+### Paragraph 2: Act Structure
 
-Government Departments may have the power to create and publish legally binding regulations, standards, and guidelines which are legally binding. Regulations, standards, and guidelines function as bylaws but don't supersede laws made through Acts and drafted legislation. 
+    Act Title
+      Division: Division Title
+        Section: Section Title
+          Paragraph: Paragraph Title (Paragraphs are optional)
+            Clause (Order represented as a positive integer)
+              Item (Order represented as a Latin character)
+                Element (Order represented as Roman Numeral)
 
-#### Paragraph 2: Legislative Hierarchy
-The following hierarchy of legislation establishes which legislation is more powerful.
+### Paragraph 3: Misc
 
-- (1) Constitution
-- (2) Protected Acts
-- (3) Junior Acts
-- (4) Senior Acts
-- (5) Regulations
-- (6) Standards
-- (7) Guidelines
+1. Paragraphs are optional for sections which contain only one paragraph.
+2. Titles of Acts, Divisions, Sections and Paragraphs are considered legally binding.
 
-### Section 3: Protected Acts
-#### Paragraph 1: Changes to Protected Acts
-Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered invalid.
+## Section 3: Legislative Hierarchy
 
-#### Paragraph 2: List of Protected Acts
-The Protected Acts are listed below:
-- (1) Human Rights Act
-- (2) Judicial System Act
-- (3) Human Services Act
+### Paragraph 1: Constitution
+
+The constitution is the supreme act, which supersedes any and all acts, including protected acts, and must follow the amendment protocol if changes to the constitution are required.
+
+### Paragraph 2: Protected Acts
+
+Protected acts are protected by the constitution, and treated as an extension of the constitution. This gives them importance over even newer acts and must follow the amendment protocol if changes to protected acts are required.
+
+The protected acts are:
+
+1. Assembly Ministry Act
+2. Justice Ministry Act
+3. Human Services Ministry Act
+4. The Articles Act
+
+### Paragraph 3: Acts
+
+1. Acts are forms of legislation.
+2. Parts of a newer act may supersede parts of an older act if their contents conflict.
+
+### Paragraph 4: Regulations
+
+1. A regulation is a piece of legally binding legislation created by a minister.
+2. A minister may delegate the power of creating, modifying or repealing regulations to a member of their ministry.
+3. The type of regulations that a minister may create must be explicitly and specifically stated within the bounding act that establishes the powers of the minister’s role.
+4. Regulations are titled using the following format: [Ministry Name]: [Regulation Name] Regulations, eg: Infrastructure Ministry: Electrical Wiring Regulations
+5. Acts supersede regulations
+
+### Paragraph 5: Standards
+
+1. A standard is a document or part of a document which can be made legally binding by inclusion or reference within an act or regulation.
+
+## Section 4: Act Referencing
+
+1. Acts may be legally referenced by their abbreviated “*path”*.
+    1. Example: Constitution Act D4/S5/C1/Ia
+    2. Example: Human Services Act D1/S1/P1/C1/Ia/Ei
+2. Acts may be legally referenced by their full name *“path”.*
+    1. Example: Constitution Act Division [#] Section [#] Paragraph [#] Clause [#] Item [a] Element [i]
