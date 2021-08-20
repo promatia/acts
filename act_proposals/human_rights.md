@@ -8,12 +8,11 @@ This act lists out the human rights protected in Promatia.
 The purpose of this act lay out and conserve Promatia's compulsory human rights.
 
 ### Section 3: Jurisdiction
-The jurisdiction of this act belongs to the Ministry of Police for enforcement and the Ministry of Human Rights and the Ministry of Education for educating these rights.
+The jurisdiction of D2§1 belongs to the Ministry of Police. The jurisdiction of D2§2 belongs to the Ministry of Justice and the Ministry of Human Services. The jurisdiction of D2§3 belongs to the Ministry of Labour.
 
 ### Section 4: Definitions
-**Mature Age**: 16 years of age
-
-**Adult Age**: 18 years of age
+- **Mature Age**: 16 years of age
+- **Adult Age**: 18 years of age
 
 ## Division 2: Rights
 ### Section 1: Individual Liberty
