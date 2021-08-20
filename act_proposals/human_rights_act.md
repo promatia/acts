@@ -32,10 +32,11 @@ The jurisdiction of this act belongs to the Ministry of Police for enforcement a
 13. Everyone has the right to organise and form peaceful assembly to protest whatever they desire.
 14. Everyone has the right, without any discrimination to:
     - Work
-    - Choice of employment (except for where is is absolutely necessary for the protection of employees)
+    - Choice of employment
     - Just and favourable conditions of work
     - Equal pay for equal work
     - Form and join trade unions for the protection of the worker
+    - Organise a collective strike
 15. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
 16. Everyone has the right to food, water and shelter.
 17. Everyone has the right to education. Fundamental education shall be compulsory.
