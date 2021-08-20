@@ -51,18 +51,16 @@ The salary of employees of the Corps. is equivalent to 15 Australian Dollars per
 All Corps. employees receive individual housing during their service, depending on the environment that they work in. After 5 years in the Corps., they are entitled to own an individual apartment paid by the Corps.
 
 
-## Part 4: Economic Democracy
+## Part 4: Worker's Councils
 
-### Section 1: Worker's Councils
-
-#### Segment 1: Creation
+### Section 1: Creation
 Each company with employees has a worker's council, which shall represent the interests of the workers in that company.
 
-#### Segment 2: Membership
+### Section 2: Membership
 Membership in worker's councils shall be optional and free for all employees.
 
-### Section 2: Stock
+### Section 3: Stock
 20% of the stock of each company's stock shall be owned by that company's worker's council. Half of the earnings represented by this stock shall be distributed to the members of the worker's council through dividends or reinvested into the company's stock if it is public.
 
-### Section 3: Board of Directors
+### Section 4: Board of Directors
 The worker's council of each company shall appoint 20% of the seats on the board of directors.
