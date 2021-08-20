@@ -60,7 +60,7 @@ Each company with employees has a worker's council, which shall represent the in
 Membership in worker's councils shall be optional and free for all employees.
 
 ### Section 3: Stock
-20% of the stock of each company's stock shall be owned by that company's worker's council. Half of the earnings represented by this stock shall be distributed to the members of the worker's council through dividends or reinvested into the company's stock if it is public.
+20% of each company's stock shall be owned by that company's worker's council. Half of the earnings represented by this stock shall be distributed to the members of the worker's council through dividends or reinvested into the company's stock if it is public.
 
 ### Section 4: Board of Directors
 The worker's council of each company shall appoint an amount of representatives to the board of directors proportional to its equity ownership in its company.
