@@ -1,10 +1,12 @@
-# Division 1: Foundation
+# Constitution Act
 
-## Section 1: Preamble
+## Division 1: Foundation
+
+### Section 1: Preamble
 
 We, the people of Promatia come together to unite and form an indissoluble government in order to promote the general welfare of all citizens so that they may enjoy their lives in the fullest, and to have a government that assists them with their ambitions.
 
-## Section 2: Purpose
+### Section 2: Purpose
 
 The purpose of this constitution is to:
 
@@ -14,7 +16,7 @@ The purpose of this constitution is to:
 4. Create the Judicial Ministry, established to interpret and apply the laws created by the Assembly Ministry.
 5. Enable the creation of ministries to enforce the law.
 
-## Section 3: Amendment Protocol
+### Section 3: Amendment Protocol
 
 The process to amend the constitution or any of its protected acts is as follows:
 
@@ -27,7 +29,7 @@ The process to amend the constitution or any of its protected acts is as follows
 4. If approval of the change is below 50% after that period:
     1. The change is dismissed.
 
-## Section 4: Definitions
+### Section 4: Definitions
 
 1. Citizen: Deferred to the "Human Services Act”.
 2. Ministry: An official government organisation within the Promatian government, established by an act.
@@ -35,9 +37,9 @@ The process to amend the constitution or any of its protected acts is as follows
 4. Assembly: Deferred to the “Assembly Act”.
 5. Petition: Deferred to the “Assembly Act”.
 
-# Division 2: Promatia
+## Division 2: Promatia
 
-## Section 1: Purpose
+### Section 1: Purpose
 
 The purpose of the government of Promatia is to:
 
@@ -49,51 +51,51 @@ The purpose of the government of Promatia is to:
 6. Remove government and corporate corruption found in representative democracies.
 7. Reduce bureaucracy through the application of digital governance.
 
-## Section 2: Name
+### Section 2: Name
 
-### Paragraph 1: Short Name
+#### Paragraph 1: Short Name
 
 The short name of the government shall be **Promatia**.
 
-### Paragraph 2: Long Name
+#### Paragraph 2: Long Name
 
 The long name of the government shall be **Government of Promatia**.
 
-### Paragraph 3: Name of Promatian People
+#### Paragraph 3: Name of Promatian People
 
 The demonym of the people of Promatia shall be **Promatian**.
 
-## Section 2: Motto
+### Section 2: Motto
 
 The official mottos of Promatia shall be:
 
 1. **Vi veri vniversum vivus vici** a Latin phrase approximately meaning "By the power of truth, I while living, have conquered the universe.".
 2. **The Modern Solution To Governance**
 
-## Section 3: Flag
+### Section 3: Flag
 
-### Paragraph 1: Image
+#### Paragraph 1: Image
 
-### Paragraph 2: Colors
+#### Paragraph 2: Colors
 
 1. Promatia Blue: Hexadecimal #366FBE
 2. White: Hexadecimal #FFFFFF
 
-## Section 4: State Emblem
+### Section 4: State Emblem
 
-## Section 5: Capital City
+### Section 5: Capital City
 
 The capital city of Promatia shall be named **Lumina**.
 
-## Section 6: Language
+### Section 6: Language
 
 The official language of Promatia shall be **Australian English**, with the IETF BCP 47 Language Tag: en-au
 
-# Division 2: Ministries
+## Division 2: Ministries
 
-## Section 1: Ministerial Powers
+### Section 1: Ministerial Powers
 
-### Paragraph 1: Default Powers
+#### Paragraph 1: Default Powers
 
 By default, Ministers have the power to:
 
@@ -102,25 +104,25 @@ By default, Ministers have the power to:
 3. Add or remove persons in their ministry, unless explicitly stated prevented by their bounding act.
 4. The power to order official directives.
 
-### Paragraph 2: Delegation of Powers
+#### Paragraph 2: Delegation of Powers
 
 Ministers may delegate A minister is responsible for actions performed by members of their ministry whom they have delegated their powers to.
 
-### Paragraph 3: Directives
+#### Paragraph 3: Directives
 
 Ministers may order official directives to members of their ministry to achieve a particular objective or result, within the bounds of the law.
 
-# Division 3: Law System
+## Division 3: Law System
 
-## Section 1: Introduction
+### Section 1: Introduction
 
 1. Promatia's primary form of legislation is written Acts.
 2. Acts can be drafted by any citizen. When approved by the Assembly, they become legally binding.
 3. This constitution is an act.
 
-## Section 2: Act System
+### Section 2: Act System
 
-### Paragraph 1: Acts
+#### Paragraph 1: Acts
 
 1. Acts are Promatia’s form of binding law.
 2. Acts are passed by the assembly.
@@ -130,7 +132,7 @@ Ministers may order official directives to members of their ministry to achieve 
 6. Acts may codify punishments.
 7. Acts may declare a ministry as an administrator of its contents.
 
-### Paragraph 2: Act Structure
+#### Paragraph 2: Act Structure
 
     Act Title
       Division: Division Title
@@ -140,18 +142,18 @@ Ministers may order official directives to members of their ministry to achieve 
               Item (Order represented as a Latin character)
                 Element (Order represented as Roman Numeral)
 
-### Paragraph 3: Misc
+#### Paragraph 3: Misc
 
 1. Paragraphs are optional for sections which contain only one paragraph.
 2. Titles of Acts, Divisions, Sections and Paragraphs are considered legally binding.
 
-## Section 3: Legislative Hierarchy
+### Section 3: Legislative Hierarchy
 
-### Paragraph 1: Constitution
+#### Paragraph 1: Constitution
 
 The constitution is the supreme act, which supersedes any and all acts, including protected acts, and must follow the amendment protocol if changes to the constitution are required.
 
-### Paragraph 2: Protected Acts
+#### Paragraph 2: Protected Acts
 
 Protected acts are protected by the constitution, and treated as an extension of the constitution. This gives them importance over even newer acts and must follow the amendment protocol if changes to protected acts are required.
 
@@ -162,12 +164,12 @@ The protected acts are:
 3. Human Services Ministry Act
 4. The Articles Act
 
-### Paragraph 3: Acts
+#### Paragraph 3: Acts
 
 1. Acts are forms of legislation.
 2. Parts of a newer act may supersede parts of an older act if their contents conflict.
 
-### Paragraph 4: Regulations
+#### Paragraph 4: Regulations
 
 1. A regulation is a piece of legally binding legislation created by a minister.
 2. A minister may delegate the power of creating, modifying or repealing regulations to a member of their ministry.
@@ -175,11 +177,11 @@ The protected acts are:
 4. Regulations are titled using the following format: [Ministry Name]: [Regulation Name] Regulations, eg: Infrastructure Ministry: Electrical Wiring Regulations
 5. Acts supersede regulations
 
-### Paragraph 5: Standards
+#### Paragraph 5: Standards
 
 1. A standard is a document or part of a document which can be made legally binding by inclusion or reference within an act or regulation.
 
-## Section 4: Act Referencing
+### Section 4: Act Referencing
 
 1. Acts may be legally referenced by their abbreviated “*path”*.
     1. Example: Constitution Act D4/S5/C1/Ia
