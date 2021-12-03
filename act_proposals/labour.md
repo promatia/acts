@@ -42,7 +42,7 @@ Full time workers may not be obligated to spend more than 2,080 hours working pe
 The Development Corps. exists to develop infrastructure, to remove the need for unemployment, and to provide a guaranteed level of income security for all workers.
 
 ### Section 2: Salary
-The salary of employees of the Corps. is equivalent to 15 Australian Dollars per hour, adjusted for inflation.
+The base salary of Privates of the Development Corps. is equivalent to 20 Australian Dollars per hour, adjusted for inflation relative to 2021 levels.
 
 ### Section 3: Housing Plan
 
