@@ -1,5 +1,12 @@
 # Constitution Act
 
+## Contents
+
+1. [Division 1: Foundation](https://github.com/promatia/acts/blob/master/constitution.md#division-1-foundation)
+    1. [Section 1: Preamble](https://github.com/promatia/acts/blob/master/constitution.md#section-1-preamble)
+3. [Division 2: Ministries](https://github.com/promatia/acts/blob/master/constitution.md#division-2-ministries)
+4. [Division 3: Laws](https://github.com/promatia/acts/blob/master/constitution.md#division-3-laws)
+
 ## Division 1: Foundation
 
 ### Section 1: Preamble
