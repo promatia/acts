@@ -4,8 +4,25 @@
 
 1. [Division 1: Foundation](https://github.com/promatia/acts/blob/master/constitution.md#division-1-foundation)
     1. [Section 1: Preamble](https://github.com/promatia/acts/blob/master/constitution.md#section-1-preamble)
-3. [Division 2: Ministries](https://github.com/promatia/acts/blob/master/constitution.md#division-2-ministries)
-4. [Division 3: Laws](https://github.com/promatia/acts/blob/master/constitution.md#division-3-laws)
+    2. [Section 2: Purpose](https://github.com/promatia/acts/blob/master/constitution.md#section-2-purpose)
+2. [Division 2: Ministries](https://github.com/promatia/acts/blob/master/constitution.md#division-2-ministries)
+    1. [Section 1: Ministerial Powers](https://github.com/promatia/acts/blob/master/constitution.md#section-1-ministerial-powers)
+3. [Division 3: Laws](https://github.com/promatia/acts/blob/master/constitution.md#division-3-laws)
+    1. [Section 1: Introduction](https://github.com/promatia/acts/blob/master/constitution.md#section-1-introduction)
+    2. [Section 2: Act System](https://github.com/promatia/acts/blob/master/constitution.md#section-2-act-system)
+        1. [Paragraph 1: Acts](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-acts)
+        2. [Paragraph 2: Act Structure](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-2-act-structure)
+    3. [Section 3: Legislative Hierarchy](https://github.com/promatia/acts/blob/master/constitution.md#section-3-legislative-hierarchy)
+        1. [Paragraph 1: Constitution](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-constitution)
+        2. [Paragraph 2: Protected Acts](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-2-protected-acts)
+        3. [Paragraph 3: Acts](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-3-acts)
+        4. [Paragraph 4: Regulations](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-4-regulations)
+        5. [Paragraph 5: Directive](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-5-directive)
+    4. [Section 4: Act Referencing](https://github.com/promatia/acts/blob/master/constitution.md#section-4-act-referencing)
+    5. [Section 5: Amendments](https://github.com/promatia/acts/blob/master/constitution.md#section-5-amendments)
+4. [Division 4: Provisional Government](https://github.com/promatia/acts/blob/master/constitution.md#division-4-provisional-government)
+    1. [Section 1: Establishment](https://github.com/promatia/acts/blob/master/constitution.md#section-1-establishment)
+        1. [Paragraph 1: Creation](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-creation)
 
 ## Division 1: Foundation
 
