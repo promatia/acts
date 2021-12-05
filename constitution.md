@@ -5,9 +5,9 @@
 1. [Division 1: Foundation](https://github.com/promatia/acts/blob/master/constitution.md#division-1-foundation)
     1. [Section 1: Preamble](https://github.com/promatia/acts/blob/master/constitution.md#section-1-preamble)
     2. [Section 2: Purpose](https://github.com/promatia/acts/blob/master/constitution.md#section-2-purpose)
-2. [Division 2: Executive (Ministries)](https://github.com/promatia/acts/blob/master/constitution.md#division-2-ministries)
+2. [Division 2: Executive (Ministries)](https://github.com/promatia/acts/blob/master/constitution.md#division-2-executive-ministries)
     1. [Section 1: Ministerial Powers](https://github.com/promatia/acts/blob/master/constitution.md#section-1-ministerial-powers)
-3. [Division 3: Legislative (Assembly)](https://github.com/promatia/acts/blob/master/constitution.md#division-3-laws)
+3. [Division 3: Legislative (Assembly)](https://github.com/promatia/acts/blob/master/constitution.md#division-3-legislative-assembly)
     1. [Section 1: Introduction](https://github.com/promatia/acts/blob/master/constitution.md#section-1-introduction)
     2. [Section 2: Act System](https://github.com/promatia/acts/blob/master/constitution.md#section-2-act-system)
         1. [Paragraph 1: Acts](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-acts)
@@ -20,8 +20,8 @@
         5. [Paragraph 5: Directive](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-5-directive)
     4. [Section 4: Act Referencing](https://github.com/promatia/acts/blob/master/constitution.md#section-4-act-referencing)
     5. [Section 5: Amendments](https://github.com/promatia/acts/blob/master/constitution.md#section-5-amendments)
-4. [Division 4: Judicial (Supreme Court)](https://github.com/promatia/acts/blob/master/constitution.md#division-4-supreme-court)
-4. [Division 5: Provisional Government](https://github.com/promatia/acts/blob/master/constitution.md#division-3-provisional-government)
+4. [Division 4: Judicial (Supreme Court)](https://github.com/promatia/acts/blob/master/constitution.md#division-4-judicial-supreme-court)
+4. [Division 5: Provisional Government](https://github.com/promatia/acts/blob/master/constitution.md#division-5-provisional-government)
     1. [Section 1: Establishment](https://github.com/promatia/acts/blob/master/constitution.md#section-1-establishment)
         1. [Paragraph 1: Creation](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-creation)
         2. [Paragraph 2: Expiration](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-2-expiration)
@@ -46,7 +46,7 @@ The purpose of this constitution is to:
 4. Create the ministerial system, established to apply the laws authorized by the Assembly.
 5. Create the courts system, established to interpet the laws and administer justice.
 
-## Division 2: Ministries
+## Division 2: Executive (Ministries)
 
 ### Section 1: Ministerial Powers
 By default, Ministers have the power to:
@@ -56,7 +56,7 @@ By default, Ministers have the power to:
 3. Add or remove persons in their ministry, unless explicitly stated prevented by their bounding act.
 4. Order official directives to members of their ministry to achieve a particular objective or result, within the bounds of the law.
 
-## Division 3: Laws
+## Division 3: Legislative (Assembly)
 
 ### Section 1: Introduction
 1. Promatia's primary form of legislation are acts.
@@ -126,7 +126,7 @@ The process to amend any law is as follows:
 3. If approval of the change is above 50% after that period, the change authorizes an official amendment or deletion of the law.
 4. If approval of the change is below 50% after that period, the change is dismissed.
 
-## Division 4: Supreme Court
+## Division 4: Judicial (Supreme Court)
 
 ### Section 1: Establishment
 The foundational court of the Government is the Supreme Court of Promatia ("Supreme Court").
