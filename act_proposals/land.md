@@ -35,7 +35,7 @@ Owners of land that have their land ownership connected to the land ownership re
 ### Section 3: Previous Ownership
 1. All owners of land that owned their land before Promatia's claim, except for the government of the Commonwealth of Australia and associated organisations, remain owners of their land and, upon providing proof of their rightful ownership of land, register their claim to Promaland.
 2. All land owned by the government of the Commonwealth of Australia and associated organisations, including all land owned the British royal family, is the property of Proland, and therefore, by the people of Promatia collectively.
-3. The indigenous population in the claim of Promatia have the right to ownership over their ancestral lands and the right to remain part of Australia.
+3. The indigenous population in the claim of Promatia have the right to ownership over their ancestral lands and the right to remain part of Australia, to join Promatia, or to form an Autonomous Nation subject to the Constitution and Protected Acts but not to normal acts.
 
 ### Section 4: Rural Plots
 1. All rural land that is owned by Promaland shall be sectioned off into townships.
