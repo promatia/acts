@@ -23,6 +23,13 @@
 4. [Division 4: Provisional Government](https://github.com/promatia/acts/blob/master/constitution.md#division-4-provisional-government)
     1. [Section 1: Establishment](https://github.com/promatia/acts/blob/master/constitution.md#section-1-establishment)
         1. [Paragraph 1: Creation](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-creation)
+        2. [Paragraph 2: Expiration](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-2-expiration)
+        3. [Paragraph 3: Self-Amendment](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-3-self-amendment)
+    2. [Section 2: Members](https://github.com/promatia/acts/blob/master/constitution.md#section-2-members)
+        1. [Paragraph 1: Original Members](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-1-original-members)
+        2. [Paragraph 2: New Members](https://github.com/promatia/acts/blob/master/constitution.md#paragraph-2-new-members)
+    3. [Section 3: Authority](https://github.com/promatia/acts/blob/master/constitution.md#section-3-authority)
+    4. [Section 4: Payment](https://github.com/promatia/acts/blob/master/constitution.md#section-3-authority)
 
 ## Division 1: Foundation
 
