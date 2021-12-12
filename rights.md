@@ -1,4 +1,4 @@
-# Human Rights Act
+# Rights Act
 
 ## Division 1: Foundation
 ### Section 1: Preamble
