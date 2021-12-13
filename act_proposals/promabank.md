@@ -1,37 +1,69 @@
-# Promabank Act
+# Economy Act
 
 ## Part 1: Foundation
 
 ### Section 1: Preamble
-The foundation of this act is to provide and formalise the infrastructure, powers, and responsibilities of Promabank, as well as all of its organisational structure.
+The foundation of this act is to provide and formalise the infrastructure, powers, and responsibilities of the Ministry of the Economy, as well as all of its organisational structure.
 
-### Section 2: Promabank
+### Section 2: Structure of the Economy
+
+#### Segment 1: General Summary
+The economy of Promatia follows a unique structure laid out by the democratic will of the people. The Government is involved in planning under its state-owned enterprises. In addition, there are significant structures allowing cooperative, individual, and private enterprises to be formed.
+
+#### Segment 2: State-Owned Enterprises
+
+##### Paragraph 1: Overview
+The Government participates in the economy through its control over important industries, which include:
+- Healthcare
+- Utilities
+- Banking
+- Housing
+- Land
+- Manufacturing
+- Mining
+- Natural gas and oil
+
+##### Paragraph 2: List of State Enterprises
+The following enterprises shall be established and owned by the Ministry of Finance, which is owned by the Government, which is owned by the people collectively:
+- Promatia Healthcare Company ("Prohealth")
+- Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
+- Bank of Promatia ("Promabank")
+- Promatia Housing Company ("Prohouse")
+- Promatia Land Company ("Proland")
+- Promatia Manufacturing Company ("Promanu")
+- Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
+- Promatia Natural Gas & Oil Company ("PNG&O", "Progo", "Progoco"), which shall have monopoly power
+
+#### Paragraph 3: Liquidation
+Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company.
+
+### Section 3: Finance
 
 #### Segment 1: Establishment
 
 ##### Paragraph 1: Promabank
-There shall exist Promabank, which shall serve as the national bank of Promatia.
+There shall exist the Ministry of Finance.
 
 ##### Paragraph 2: Ministry of Taxation
-There shall exist a Ministry of Taxation, a subministry of the Promabank, which shall serve as the official taxation authority in Promatia.
+There shall exist a Ministry of Taxation, a subministry of the Ministry of Finance, which shall serve as the official taxation authority in Promatia.
 
 ##### Paragraph 3: Minsitry of Monetary Regulation
-There shall exist a Ministry of Monetary Regulation, a subministry of the Promabank, which shall serve as the official independent council with which Promabank shall be run.
+There shall exist a Ministry of Monetary Regulation, a subministry of the Ministry of Finance, which shall serve as the official independent council with which Promabank shall be run.
 
 ##### Paragraph 4: Ministry of the Budget
-There shall exist a Ministry of the Budget, a subministry of the Promabank, which shall serve as the authority that shall decide the budget of the government.
+There shall exist a Ministry of the Budget, a subministry of the Ministry of Finance, which shall serve as the authority that shall decide the budget of the government.
 
 ##### Paragraph 5: Ministry of Trade
-There shall exist a Ministry of Trade, a subministry of the Promabank, which shall serve as the authority that implements the trade rules of Promatia and makes recommendations to the organisations and government of Promatia as to the best trade practices.
+There shall exist a Ministry of Trade, a subministry of the Ministry of Finance, which shall serve as the authority that implements the trade rules of Promatia and makes recommendations to the organisations and government of Promatia as to the best trade practices.
 
 ##### Paragraph 6: Ministry of National Investment
-There shall exist a Ministry of National Investment, a subministry of the Promabank, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
+There shall exist a Ministry of National Investment, a subministry of the Ministry of Finance, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
 
 ##### Paragraph 7: Ministry of the Treasury
-There shall exist a Ministry of the Treasury, a subministry of the Promabank, which shall serve as the independent council that shall supervise government assets and the government bank account.
+There shall exist a Ministry of the Treasury, a subministry of the Ministry of Finance, which shall serve as the independent council that shall supervise government assets and the government bank account.
 
 #### Segment 2: Purpose
-The purpose of Promabank is to
+The purpose of the Ministry of Finance is to
 - Finance the people, businesses, organisations, and government of Promatia
 - Securely hold the funds of the people, businesses, organisations, and government of Promatia
 - Manage the creation and destruction of Proma
@@ -43,28 +75,28 @@ The purpose of Promabank is to
 #### Segment 1: Minister
 
 ##### Paragraph 1: Position
-There shall be a PromaBank Minister
+There shall be a Finance Minister.
 
 ##### Paragraph 2: Election Method
 The minister shall be elected by the Citizens Assembly GD via Instant Runoff Voting (IRV).
 
 ### Section 3: Remuneration
-Remuneration of the organisation executives and monetary council members shall be determined by the Remuneration EGI, a board of individuals appointed by IRV, who shall not have any influence over the other EGIs of Promabank.
+Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other Ministries of Promabank.
 
 ### Section 4: Payments Systems Board
 
 #### Segment 1: Preamble
-The payments system board exists to develop, improve the payments system of Promatia, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other EGIs
+The payments system board exists to develop, improve the payments system of Promatia, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other Ministries.
 
 #### Segment 2: Board Positions
 The board shall consist of:
 - 2 representatives from the Ministry of Software
-- Up to 2 appointed staff of Promabank
-- Minister of Promabank
-- Technical Officer of Promabank
+- Up to 2 appointed staff of the Ministry of Finance
+- Minister of Finance
+- Technical Officer of the Ministry of Finance
 
 #### Segment 3: Appointed Staff
-The Minister may appoint up to 2 staff of Promabank to be part of the payments systems board.
+The Minister may appoint up to 2 staff of the Ministry of Finance to be part of the payments systems board.
 
 ### Section 5: Management Structure
 
@@ -85,7 +117,7 @@ All management positions shall be appointed by the PEM.
 The national currency of Promatia shall be the Proma.
 
 #### Segment 2: Symbol
-The symbol of the national currency shall be Ⱀ Ⳏ
+The symbol of the national currency shall be `Ⱀ`.
 
 #### Segment 3: Legal Tender
 The Proma shall serve as the legal tender of Promatia, and all persons, organisations, and government institutions must accept it for all debts, taxes, duties, and tariffs.
@@ -109,12 +141,12 @@ Proma shall be a fully digital currency, stored on Promabank servers.
 
 #### Segment 1: Council Positions
 The Monetary Council shall consist of the
-- Minister of the Promabank
-- Minister of the Ministry of Taxation
-- Minister of the Ministry of Budget
-- Minister of the Ministry of Trade
-- Minister of the Ministry of National Investment
-- Minister of the Ministry of the Treasury
+- Minister of Finance
+- Minister of Taxation
+- Minister of the Budget
+- Minister of Trade
+- Minister of National Investment
+- Minister of the Treasury
 
 #### Segment 2: Powers of the Monetary Council
 The Monetary Council has the powers to:
@@ -158,7 +190,7 @@ The retail division is responsible for:
 ## Part 6: Payments System
 
 ### Section 1: Website and App
-The Promobank website shall serve as the central hub for transacting, it will include an API developed by the software team, which will be machine-readable.
+The Promabank website shall serve as the central hub for transacting, it will include an API developed by the software team, which will be machine-readable.
 - The app must allow bank users to
     - view and dispute bank account transactions
 - modify bank account names
@@ -174,10 +206,9 @@ The Promobank website shall serve as the central hub for transacting, it will in
 - offer Promas for sale for foreign currency and bidding.
 
 ### Section 2: User System
-The Promobank website shall integrate with myPro, Promatia’s central user system. Users should be able to login into the bank using their myPro account (OAuth scheme). Users may have a mobile number and email linked to their account, which they can assign a default bank account to for incoming transfers.
+The Promabank website shall integrate with myPro, Promatia’s central user system. Users should be able to login into the bank using their myPro account (OAuth scheme). Users may have a mobile number and email linked to their account, which they can assign a default bank account to for incoming transfers.
 
-Unverified users bank accounts shall be locked until their identities have been verified.
-
+Unverified user's bank accounts shall be locked until their identities have been verified.
 
 ### Section 3: Bank Accounts
 
