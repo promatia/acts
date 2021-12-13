@@ -22,20 +22,28 @@ The Government participates in the economy through its control over important in
 - Manufacturing
 - Mining
 - Natural gas and oil
+- Mail
 
-##### Paragraph 2: List of State Enterprises
-The following enterprises shall be established and owned by the Ministry of Finance, which is owned by the Government, which is owned by the people collectively:
-- Promatia Healthcare Company ("Prohealth")
-- Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
-- Bank of Promatia ("Promabank")
-- Promatia Housing Company ("Prohouse")
-- Promatia Land Company ("Proland")
-- Promatia Manufacturing Company ("Promanu")
-- Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
-- Promatia Natural Gas & Oil Company ("PNG&O", "Progo", "Progoco"), which shall have monopoly power
+##### Paragraph 2: List of Government Enterprises
+The following enterprises shall be established and owned by the Ministry of Finance, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Promatia):
+1. Promatia Healthcare Company ("Prohealth")
+2. Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
+3. Bank of Promatia ("Promabank")
+4. Promatia Housing Company ("Prohouse")
+5. Promatia Land Company ("Proland")
+6. Promatia Manufacturing Company ("Promanu")
+7. Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
+8. Promatia Gas & Oil Company ("PG&O", "Progo"), which shall have monopoly power
+9. Promatia Mail Company ("Promail")
 
-#### Paragraph 3: Liquidation
-Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company.
+#### Paragraph 3: Stock & Par Value
+These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Promas, except for the Promatia Land Company and the Promatia Mail Company.
+
+#### Paragraph 4: Sale of Stock
+The Ministry of Finance may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Progo may not be sold.
+
+#### Paragraph 5: Removal from Government Control
+Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company. Progo may not be removed from government control.
 
 ### Section 3: Finance
 
