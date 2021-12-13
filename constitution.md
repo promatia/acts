@@ -89,7 +89,10 @@ By default, Ministers have the power to:
 The constitution is the supreme act, which supersedes any and all acts, including protected acts, and must follow the amendment protocol if changes to the constitution are required.
 
 #### Paragraph 2: Protected Acts
-Protected acts are protected by the constitution, and treated as an extension of the constitution. This gives them importance over even newer acts and must follow the amendment protocol if changes to protected acts are required.
+Protected acts are protected by the constitution, and treated as an extension of the constitution. This gives them importance over even newer acts and must follow the amendment protocol if changes to protected acts are required. Protected acts, unlike regular acts, typically do not establish ministries and confer their enforcement to the Government in its entirety. Protected acts include:
+- Economy Act
+- Rights & Duties Act
+- Symbols Act
 
 #### Paragraph 3: Acts
 1. Acts are forms of legislation that administer individual ministries.
