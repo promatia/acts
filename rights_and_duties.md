@@ -15,7 +15,10 @@ The jurisdiction of D2§1 belongs to the Ministry of Police. The jurisdiction of
 - **Adult Age**: 18 years of age
 
 ## Division 2: Rights
-### Section 1: Individual Liberty
+### Section 1: General Rights
+The Universal Declaration of Human Rights is recognized as an extension of this act.
+
+### Section 2: Individual Liberty
 - Everyone has the right to life from birth.
 - No one shall be subjected cruel, inhumane or degrading torture, treatment or punishment.
 - Everyone the right to criticise all forms of of ideas, or ideologies, whether it may be offensive or not.
@@ -23,7 +26,7 @@ The jurisdiction of D2§1 belongs to the Ministry of Police. The jurisdiction of
 - Two people of mature age have the right to found a family.
 - No person above adult age besides those older by less than 3 years of the mature aged person should form any intimate relationships with them.
 
-### Section 2: Government
+### Section 3: Government
 - Everyone below the age of 17 must not directly serve in conflict.
 - No one shall be subjected to arbitrary arrest, detention or exile.
 - Everyone is entitled to a fair and public hearing to determine whether they are guilty against the criminal charges against them.
@@ -37,7 +40,7 @@ The jurisdiction of D2§1 belongs to the Ministry of Police. The jurisdiction of
 - Everyone has the right to trial by jury.
 - Everyone has the right to not be put subjected to cruel punishments.
 
-### Section 3: Conditions
+### Section 4: Conditions
 - Everyone has the right, without any discrimination to:
     - Work
     - Choice of employment
