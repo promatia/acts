@@ -1,5 +1,27 @@
 # Economy Act
 
+- [Part 1: Foundation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-1-foundation)
+    - [Section 1: Preamble](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-preamble)
+    - [Section 2: Structure of the Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-structure-of-the-economy)
+        - [Segment 1: General Summary](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-general-summary)
+        - [Segment 2: State-Owned Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-state-owned-enterprises)
+            - [Paragraph 1: Overview](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-overview)
+            - [Paragraph 2: List of Government Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-list-of-government-enterprises)
+            - [Paragraph 3: Stock & Par Value](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-stock--par-value)
+            - [Paragraph 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-sale-of-stock)
+            - [Paragraph 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-removal-from-government-control)
+    - [Section 3: Finance](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-finance)
+        - [Segment 1: Establishment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-establishment)
+            - [Paragraph 1: Promabank](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-promabank)
+            - [Paragraph 2: Ministry of Taxation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-ministry-of-taxation)
+            - [Paragraph 3: Ministry of Monetary Regulation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-minsitry-of-monetary-regulation)
+            - [Paragraph 4: Ministry of the Budget](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-ministry-of-the-budget)
+            - [Paragraph 5: Ministry of Trade](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-ministry-of-trade)
+            - [Paragraph 6: Ministry of National Investment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-6-ministry-of-national-investment)
+            - [Paragraph 7: Ministry of the Treasury](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-7-ministry-of-the-treasury)
+        - [Segment 2: Purpose](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-purpose)
+    - [Section 2: Electable Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-electable-positions)
+
 ## Part 1: Foundation
 
 ### Section 1: Preamble
