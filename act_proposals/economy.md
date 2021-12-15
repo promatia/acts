@@ -21,6 +21,49 @@
             - [Paragraph 7: Ministry of the Treasury](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-7-ministry-of-the-treasury)
         - [Segment 2: Purpose](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-purpose)
     - [Section 2: Electable Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-electable-positions)
+        - [Segment 1: Minister](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-minister)
+            - [Paragraph 1: Position](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-position)
+            - [Paragraph 2: Election Method](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-election-method)
+    -  [Section 3: Remuneration](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-remuneration)
+    -  [Section 4: Payments Systems Board](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-payments-systems-board)
+        -  [Segment 1: Preamble](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-preamble)
+        -  [Segment 2: Board Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-board-positions)
+        -  [Segment 3: Appointed Staff](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-appointed-staff)
+    -  [Section 5: Managment Structure](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-5-management-structure)
+        -  [Segment 1: Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-positions)
+        -  [Segment 2: Appointment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-appointment)
+-  [Part 3: Currency](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-3-currency)
+    - [Section 1: Proma](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-proma)
+        - [Segment 1: Name](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-name)
+        - [Segment 2: Symbol]
+        - [Segment 3: Legal Tender]
+        - [Segment 4: Issuance]
+            - [Paragraph 1: Organisation]
+            - [Paragraph 2: Process]
+        - [Segment 5: Digital Currency]
+- [Part 4: Central Banking]
+    - [Section 1: Monetary Council]
+        - [Segment 1: Council Positions]
+        - [Segment 2: Powers of the Monetary Council]
+        - [Segment 3: Meetings]
+        - [Segment 4: Reports & Recommendations]
+    - [Section 2: Roles]
+- [Part 5: Retail Banking]
+    - [Section 1: Preamble]
+- [Part 6: Payments System]
+    - [Section 1: Website and App]
+    - [Section 2: User System]
+    - [Section 3: Bank Accounts]
+        - [Segment 1: Bank Account Numbering System]
+        - [Segment 2: Ability to hold funds]
+        - [Segment 3: Bank Account Names]
+        - [Segment 4: Fees]
+    - [Section 4: Card System]
+    - [Section 3: Transactions System]
+        - [Segment 1: Transaction Types]
+        - [Segment 2: Clearance]
+        - [Segment 3: Fees]
+        - [Segment 4: Transaction Data]
 
 ## Part 1: Foundation
 
