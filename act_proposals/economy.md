@@ -65,6 +65,7 @@
         - [Segment 3: Fees] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-fees)
         - [Segment 4: Transaction Data] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-transaction-data)
 
+
 ## Part 1: Foundation
 
 ### Section 1: Preamble
