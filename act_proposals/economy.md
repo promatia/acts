@@ -35,35 +35,35 @@
 -  [Part 3: Currency](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-3-currency)
     - [Section 1: Proma](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-proma)
         - [Segment 1: Name](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-name)
-        - [Segment 2: Symbol]
-        - [Segment 3: Legal Tender]
-        - [Segment 4: Issuance]
-            - [Paragraph 1: Organisation]
-            - [Paragraph 2: Process]
-        - [Segment 5: Digital Currency]
-- [Part 4: Central Banking]
-    - [Section 1: Monetary Council]
-        - [Segment 1: Council Positions]
-        - [Segment 2: Powers of the Monetary Council]
-        - [Segment 3: Meetings]
-        - [Segment 4: Reports & Recommendations]
-    - [Section 2: Roles]
-- [Part 5: Retail Banking]
-    - [Section 1: Preamble]
-- [Part 6: Payments System]
-    - [Section 1: Website and App]
-    - [Section 2: User System]
-    - [Section 3: Bank Accounts]
-        - [Segment 1: Bank Account Numbering System]
-        - [Segment 2: Ability to hold funds]
-        - [Segment 3: Bank Account Names]
-        - [Segment 4: Fees]
-    - [Section 4: Card System]
-    - [Section 3: Transactions System]
-        - [Segment 1: Transaction Types]
-        - [Segment 2: Clearance]
-        - [Segment 3: Fees]
-        - [Segment 4: Transaction Data]
+        - [Segment 2: Symbol] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-symbol)
+        - [Segment 3: Legal Tender] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-legal-tender)
+        - [Segment 4: Issuance] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-issuance)
+            - [Paragraph 1: Organisation] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-organisation)
+            - [Paragraph 2: Process] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-process)
+        - [Segment 5: Digital Currency] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-5-digital-currency)
+- [Part 4: Central Banking] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-4-central-banking)
+    - [Section 1: Monetary Council] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-monetary-council)
+        - [Segment 1: Council Positions] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-council-positions)
+        - [Segment 2: Powers of the Monetary Council] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-powers-of-the-monetary-council)
+        - [Segment 3: Meetings] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-meetings)
+        - [Segment 4: Reports & Recommendations] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-reports--recommendations)
+    - [Section 2: Roles] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-roles)
+- [Part 5: Retail Banking] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-5-retail-banking)
+    - [Section 1: Preamble] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-preamble-1)
+- [Part 6: Payments System] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-6-payments-system)
+    - [Section 1: Website and App] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-website-and-app)
+    - [Section 2: User System] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-user-system)
+    - [Section 3: Bank Accounts] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-bank-accounts)
+        - [Segment 1: Bank Account Numbering System] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-bank-account-numbering-system)
+        - [Segment 2: Ability to hold funds] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-ability-to-hold-funds)
+        - [Segment 3: Bank Account Names] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-bank-account-names)
+        - [Segment 4: Fees] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-fees)
+    - [Section 4: Card System] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-card-system)
+    - [Section 3: Transactions System] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-transactions-system)
+        - [Segment 1: Transaction Types] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-transaction-types)
+        - [Segment 2: Clearance] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-clearance)
+        - [Segment 3: Fees] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-fees)
+        - [Segment 4: Transaction Data] (https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-transaction-data)
 
 ## Part 1: Foundation
 
