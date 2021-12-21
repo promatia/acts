@@ -101,6 +101,7 @@ The following enterprises shall be established and owned by the Ministry of Fina
 7. Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
 8. Promatia Gas & Oil Company ("PG&O", "Progo"), which shall have monopoly power
 9. Promatia Mail Company ("Promail")
+10. Promatia Transportation Company ("Protrans")
 
 #### Paragraph 3: Stock & Par Value
 These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Promas, except for the Promatia Land Company and the Promatia Mail Company.
@@ -110,6 +111,10 @@ The Ministry of Finance may sell stock in these enterprises, but may sell no mor
 
 #### Paragraph 5: Removal from Government Control
 Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company. Progo may not be removed from government control.
+
+#### Segment 3: Citizens' Dividend (Universal Basic Income)
+1. All surplus profits of the Government's share of State-Owned Enterprises not reinvested into those enterprises are to be distributed to all citizens evenly as the Citizens' Dividend.
+2. The Minister of Finance may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year.
 
 ### Section 3: Finance
 
