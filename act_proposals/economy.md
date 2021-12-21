@@ -10,7 +10,7 @@
             - [Paragraph 3: Stock & Par Value](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-stock--par-value)
             - [Paragraph 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-sale-of-stock)
             - [Paragraph 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-removal-from-government-control)
-    - [Section 3: Finance](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-finance)
+    - [Section 3: Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-economy)
         - [Segment 1: Establishment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-establishment)
             - [Paragraph 1: Promabank](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-promabank)
             - [Paragraph 2: Ministry of Taxation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-ministry-of-taxation)
@@ -91,7 +91,7 @@ The Government participates in the economy through its control over important in
 - Mail
 
 ##### Paragraph 2: List of Government Enterprises
-The following enterprises shall be established and owned by the Ministry of Finance, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Promatia):
+The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Promatia):
 1. Promatia Healthcare Company ("Prohealth")
 2. Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
 3. Bank of Promatia ("Promabank")
@@ -107,42 +107,42 @@ The following enterprises shall be established and owned by the Ministry of Fina
 These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Promas, except for the Promatia Land Company and the Promatia Mail Company.
 
 #### Paragraph 4: Sale of Stock
-The Ministry of Finance may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Progo may not be sold.
+The Ministry of the Economy may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Progo may not be sold.
 
 #### Paragraph 5: Removal from Government Control
 Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company. Progo may not be removed from government control.
 
 #### Segment 3: Citizens' Dividend (Universal Basic Income)
 1. All surplus profits of the Government's share of State-Owned Enterprises not reinvested into those enterprises are to be distributed to all citizens evenly as the Citizens' Dividend.
-2. The Minister of Finance may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year.
+2. The Minister of the  may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year.
 
-### Section 3: Finance
+### Section 3: Economy
 
 #### Segment 1: Establishment
 
 ##### Paragraph 1: Promabank
-There shall exist the Ministry of Finance.
+There shall exist the Ministry of the Economy.
 
 ##### Paragraph 2: Ministry of Taxation
-There shall exist a Ministry of Taxation, a subministry of the Ministry of Finance, which shall serve as the official taxation authority in Promatia.
+There shall exist a Ministry of Taxation, a subministry of the Ministry of the Economy, which shall serve as the official taxation authority in Promatia.
 
 ##### Paragraph 3: Minsitry of Monetary Regulation
-There shall exist a Ministry of Monetary Regulation, a subministry of the Ministry of Finance, which shall serve as the official independent council with which Promabank shall be run.
+There shall exist a Ministry of Monetary Regulation, a subministry of the Ministry of the Economy, which shall serve as the official independent council with which Promabank shall be run.
 
 ##### Paragraph 4: Ministry of the Budget
-There shall exist a Ministry of the Budget, a subministry of the Ministry of Finance, which shall serve as the authority that shall decide the budget of the government.
+There shall exist a Ministry of the Budget, a subministry of the Ministry of the Economy, which shall serve as the authority that shall decide the budget of the government.
 
 ##### Paragraph 5: Ministry of Trade
-There shall exist a Ministry of Trade, a subministry of the Ministry of Finance, which shall serve as the authority that implements the trade rules of Promatia and makes recommendations to the organisations and government of Promatia as to the best trade practices.
+There shall exist a Ministry of Trade, a subministry of the Ministry of the Economy, which shall serve as the authority that implements the trade rules of Promatia and makes recommendations to the organisations and government of Promatia as to the best trade practices.
 
 ##### Paragraph 6: Ministry of National Investment
-There shall exist a Ministry of National Investment, a subministry of the Ministry of Finance, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
+There shall exist a Ministry of National Investment, a subministry of the Ministry of the Economy, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
 
 ##### Paragraph 7: Ministry of the Treasury
-There shall exist a Ministry of the Treasury, a subministry of the Ministry of Finance, which shall serve as the independent council that shall supervise government assets and the government bank account.
+There shall exist a Ministry of the Treasury, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall supervise government assets and the government bank account.
 
 #### Segment 2: Purpose
-The purpose of the Ministry of Finance is to
+The purpose of the Ministry of the Economy is to
 - Finance the people, businesses, organisations, and government of Promatia
 - Securely hold the funds of the people, businesses, organisations, and government of Promatia
 - Manage the creation and destruction of Proma
@@ -154,7 +154,7 @@ The purpose of the Ministry of Finance is to
 #### Segment 1: Minister
 
 ##### Paragraph 1: Position
-There shall be a Finance Minister.
+There shall be a Minister of the Economy.
 
 ##### Paragraph 2: Election Method
 The minister shall be elected by the Citizens Assembly GD via Instant Runoff Voting (IRV).
@@ -170,12 +170,12 @@ The payments system board exists to develop, improve the payments system of Prom
 #### Segment 2: Board Positions
 The board shall consist of:
 - 2 representatives from the Ministry of Software
-- Up to 2 appointed staff of the Ministry of Finance
-- Minister of Finance
-- Technical Officer of the Ministry of Finance
+- Up to 2 appointed staff of the Ministry of the Economy
+- Minister of the Economy
+- Technical Officer of the Ministry of the Economy
 
 #### Segment 3: Appointed Staff
-The Minister may appoint up to 2 staff of the Ministry of Finance to be part of the payments systems board.
+The Minister may appoint up to 2 staff of the Ministry of the Economy to be part of the payments systems board.
 
 ### Section 5: Management Structure
 
@@ -220,7 +220,7 @@ Proma shall be a fully digital currency, stored on Promabank servers.
 
 #### Segment 1: Council Positions
 The Monetary Council shall consist of the
-- Minister of Finance
+- Minister of the Economy
 - Minister of Taxation
 - Minister of the Budget
 - Minister of Trade
@@ -340,3 +340,39 @@ Transaction data includes
 - Invoice data
 - Transfers
 - User Session ID
+
+## Part 7: Taxation
+
+### Section 1: Ministry
+1. There shall exist the Ministry of Taxation, which is a subministry of the Ministry of the Economy.
+2. The leader of the Ministry of Taxation is the Minister of Taxation, who shall be appointed by the Minister of the Economy.
+
+### Section 2: Taxes
+#### Paragraph 1: Enterprise Tax
+All enterprises operating in Promatia are required to pay the following percentages of their profits as a tax to the Ministry of Taxation:
+Profit range (Promas)|Tax rate on that income (%)
+-|-
+0-20,000|0
+20,000-100,000|5%
+100,000-1,000,000|10%
+1,000,000+|15%
+
+#### Paragraph 2: Land Value Tax
+All owners of land in Promatia are required to pay a tax of 1% of the market value of the land per annum to the Ministry of Taxation.
+
+#### Paragraph 3: Transaction Tax
+All transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia.
+***NOTE: THIS SECTION TO BE COMPLETED***
+
+#### Paragraph 4: Excise Taxes
+All sales of the following products are subject to a 20% excise tax:
+1. Luxury goods
+2. Recreational drugs
+3. Tobacco
+4. Petrol
+5. Natural gas
+6. Oil
+
+#### Paragraph 5: Exemptions
+1. Worker's cooperative enterprises are exempted from business taxes.
+2. Mutual aid and community organisations are exempted from business taxes.
