@@ -93,6 +93,7 @@ Protected acts are protected by the constitution, and treated as an extension of
 - Economy Act
 - Rights & Duties Act
 - Symbols Act
+- Territories Act
 
 #### Paragraph 3: Acts
 1. Acts are forms of legislation that administer individual ministries.
