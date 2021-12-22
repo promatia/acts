@@ -373,6 +373,7 @@ All landlords are required to pay a tax of 1% of the market value of their land 
 
 #### Paragraph 3: Transaction Tax
 1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
+
 Annual income (Ⱀ)|Transaction tax added (%)
 -|-
 0-20,000|0
