@@ -358,7 +358,7 @@ Annual profit range (Promas)|Tax rate on that range (%)
 1,000,000+|15
 
 #### Paragraph 2: Land Value Tax
-All owners of land in Promatia are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
+All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
 
 #### Paragraph 3: Transaction Tax
 All transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income of the individual or enterprise paying it, defined by the chart as follows:
