@@ -123,9 +123,9 @@ Should the people decide to remove control of these enterprises from state contr
 
 #### Segment 3: Citizens' Dividend (Universal Basic Income)
 1. All surplus profits of the Government's share of State-Owned Enterprises not reinvested into those enterprises are to be distributed to all citizens evenly as the Citizens' Dividend.
-2. The Minister of the Economy may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year.
+2. The Minister of the Economy may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year in profitable years or relying on surpluses from previous years.
 3. The Government (acting through the Ministry of the Economy and its involved subministries) and State-Owned Enterprises will work to increase the Universal Basic Income at least by the rate of inflation each year.
-    a. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
+    1. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
 
 ### Section 3: Economy
 
