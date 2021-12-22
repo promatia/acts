@@ -372,15 +372,26 @@ Annual profit range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on t
 All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
 
 #### Paragraph 3: Transaction Tax
-All transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income of the individual or enterprise paying it, defined by the chart as follows:
-Annual income (Ⱀ)|Transaction tax (%)
+All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
+Annual income (Ⱀ)|Transaction tax added (%)
 -|-
 0-20,000|0
-20,000-50,000|1
-50,000-100,000|3
-100,000-500,000|5
-500,000-1,000,000|7
-1,000,000+|9
+20,000-50,000|0.5
+50,000-100,000|1
+100,000-500,000|1.5
+500,000-1,000,000|2
+1,000,000+|2.5
+
+Wealth (Ⱀ)|Transaction tax added (%)
+-|-
+0-50,000|0
+50,000-100,000|0.5
+100,000-500,000|1
+500,000-1,000,000|1.5
+1,000,000-10,000,000|2
+10,000,000+|2.5
+
+For example, if an individual has an income of 75,000 Ⱀ per year and a wealth of 750,000 Ⱀ, their transaction tax total would be 3.5% (1% for their income bracket and 1.5% for their wealth bracket). If they bought a product or service that costs 100 Ⱀ, their tax would be 3.5 Ⱀ.
 
 #### Paragraph 4: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the total amount of money being inherited.
