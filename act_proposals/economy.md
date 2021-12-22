@@ -168,7 +168,7 @@ The purpose of the Ministry of the Economy is to
 There shall be a Minister of the Economy.
 
 ##### Paragraph 2: Election Method
-The minister shall be elected by the Citizens Assembly GD via Instant Runoff Voting (IRV).
+The minister shall be elected by the Assembly via Instant Runoff Voting (IRV).
 
 ### Section 3: Remuneration
 Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other Ministries of Promabank.
@@ -176,17 +176,17 @@ Remuneration of the organisation executives and monetary council members shall b
 ### Section 4: Payments Systems Board
 
 #### Segment 1: Preamble
-The payments system board exists to develop, improve the payments system of Promatia, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other Ministries.
+The Payments System Board exists to develop, improve the payments system of Promatia, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other Ministries.
 
 #### Segment 2: Board Positions
-The board shall consist of:
+The Board shall consist of:
 - 2 representatives from the Ministry of Software
 - Up to 2 appointed staff of the Ministry of the Economy
 - Minister of the Economy
 - Technical Officer of the Ministry of the Economy
 
 #### Segment 3: Appointed Staff
-The Minister may appoint up to 2 staff of the Ministry of the Economy to be part of the payments systems board.
+The Minister may appoint up to 2 staff of the Ministry of the Economy to be part of the Payments Systems Board.
 
 ### Section 5: Management Structure
 
@@ -197,7 +197,7 @@ The management structure shall consist of a
 - Central Bank Officer
 
 #### Segment 2: Appointment
-All management positions shall be appointed by the PEM.
+All management positions shall be appointed by the Minister.
 
 ## Part 3: Currency
 
@@ -218,6 +218,7 @@ The Proma shall serve as the legal tender of Promatia, and all persons, organisa
 Promabank shall be the only organisation allowed to issue the Proma, although private companies may issue banknotes or coins backed by the Proma and which they must pay the face value to the bearer upon demand and for every Proma that they issue they must store in their bank accounts with Promabank.
 
 ##### Paragraph 2: Process
+(***Note: Not Completed***)
 The process for issuing Promas shall be
 
 Member of the Monetary Council brings 
@@ -253,7 +254,7 @@ The Monetary Council has the powers to:
 The Council shall have meetings to discuss and review both monetary policy and national/global economic trends no less than once every 2 months. In times of crisis, like a recession, an emergency meeting can be set up at any time.
 
 #### Segment 4: Reports & Recommendations
-The Council may provide reports and recommendations to the PEMs of every sub-EGIs and the PEM of Promabank after each meeting.
+The Council may provide reports and recommendations to the Ministers of every sub-Ministry and the Minister of Promabank after each meeting.
 
 ### Section 2: Roles
 The roles of the Monetary Council include:
@@ -268,7 +269,7 @@ The roles of the Monetary Council include:
 ## Part 5: Retail Banking
 
 ### Section 1: Preamble
-The retail division is responsible for:
+The Retail Banking Division is responsible for:
 - loans
 - transactions
 - the accounts system
@@ -296,9 +297,8 @@ The Promabank website shall serve as the central hub for transacting, it will in
 - offer Promas for sale for foreign currency and bidding.
 
 ### Section 2: User System
-The Promabank website shall integrate with myPro, Promatia’s central user system. Users should be able to login into the bank using their myPro account (OAuth scheme). Users may have a mobile number and email linked to their account, which they can assign a default bank account to for incoming transfers.
-
-Unverified user's bank accounts shall be locked until their identities have been verified.
+1. The Promabank website shall integrate with myPro, Promatia’s central user system. Users should be able to login into the bank using their myPro account (OAuth scheme). Users may have a mobile number and email linked to their account, which they can assign a default bank account to for incoming transfers.
+2. Unverified user's bank accounts shall be locked until their identities have been verified.
 
 ### Section 3: Bank Accounts
 
@@ -312,7 +312,7 @@ Every bank account shall have the ability to hold funds, and have money spent an
 Users shall have the ability to show a public-facing bank account name and an internal name only visible to authorised holders. Users must be able to make a bank account name anonymous.
 
 #### Segment 4: Fees
-There shall be no account fees placed by the bank. Only the Taxation EGI may place taxes or fees on accounts and balances.
+There shall be no account fees placed by the bank. Only the Ministry of Taxation may place taxes or fees on accounts and balances.
 
 ### Section 4: Card System
 
@@ -333,7 +333,7 @@ The transaction types include
 All payments must be cleared immediately, a transaction should be accepted or refused within a matter of seconds.
 
 #### Segment 3: Fees
-There shall be no transaction fees placed by the Monetary Council. Only the Taxation EGI may force taxes or fees on transactions.
+There shall be no transaction fees placed by the Monetary Council. Only the Ministry of Taxation may force taxes or fees on transactions.
 
 #### Segment 4: Transaction Data
 Transaction data includes
@@ -361,7 +361,7 @@ Transaction data includes
 ### Section 2: Taxes
 #### Paragraph 1: Enterprise Tax
 All enterprises operating in Promatia are required to pay the following percentages of their profits as a tax to the Ministry of Taxation:
-Annual profit range (Promas)|Tax rate on that range (%)|Maximum applicable tax in that range (Promas)
+Annual profit range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on that range (Ⱀ)
 -|-|-
 0-20,000|0|0
 20,000-100,000|5|4,000
@@ -373,7 +373,7 @@ All landlords are required to pay a tax of 1% of the market value of their land 
 
 #### Paragraph 3: Transaction Tax
 All transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income of the individual or enterprise paying it, defined by the chart as follows:
-Annual income (Promas)|Transaction tax (%)
+Annual income (Ⱀ)|Transaction tax (%)
 -|-
 0-20,000|0
 20,000-50,000|1
@@ -384,7 +384,7 @@ Annual income (Promas)|Transaction tax (%)
 
 #### Paragraph 4: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the total amount of money being inherited.
-Inheritance range (Promas)|Tax rate on that range (%)|Maximum applicable tax in that range (Promas)
+Inheritance range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on that range (Ⱀ)
 -|-|-
 0-20,000|10|2,000
 20,000-100,000|30|24,000
