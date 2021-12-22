@@ -361,12 +361,12 @@ Transaction data includes
 ### Section 2: Taxes
 #### Paragraph 1: Enterprise Tax
 All enterprises operating in Promatia are required to pay the following percentages of their profits as a tax to the Ministry of Taxation:
-Annual profit range (Promas)|Tax rate on that range (%)
--|-
-0-20,000|0
-20,000-100,000|5
-100,000-1,000,000|10
-1,000,000+|15
+Annual profit range (Promas)|Tax rate on that range (%)|Maximum applicable tax in that range (Promas)
+-|-|-
+0-20,000|0|0
+20,000-100,000|5|4,000
+100,000-1,000,000|10|90,000
+1,000,000+|15|∞
 
 #### Paragraph 2: Land Value Tax
 All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
@@ -384,12 +384,12 @@ Annual income (Promas)|Transaction tax (%)
 
 #### Paragraph 4: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the total amount of money being inherited.
-Inheritance range (Promas)|Tax rate on that range (%)
--|-
-0-20,000|10
-20,000-100,000|30
-100,000-1,000,000|50
-1,000,000+|70
+Inheritance range (Promas)|Tax rate on that range (%)|Maximum applicable tax in that range (Promas)
+-|-|-
+0-20,000|10|2,000
+20,000-100,000|30|24,000
+100,000-1,000,000|50|450,000
+1,000,000+|70|∞
 
 #### Paragraph 5: Excise Taxes
 All sales of the following products are subject to a 20% excise tax:
