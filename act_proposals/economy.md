@@ -2,16 +2,7 @@
 
 - [Part 1: Foundation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-1-foundation)
     - [Section 1: Preamble](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-preamble)
-    - [Section 2: Structure of the Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-structure-of-the-economy)
-        - [Segment 1: General Summary](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-general-summary)
-        - [Segment 2: State-Owned Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-state-owned-enterprises)
-            - [Paragraph 1: Overview](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-overview)
-            - [Paragraph 2: List of Government Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-list-of-government-enterprises)
-            - [Paragraph 3: Stock & Par Value](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-stock--par-value)
-            - [Paragraph 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-sale-of-stock)
-            - [Paragraph 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-removal-from-government-control)
-        - [Segment 3: Citizens' Dividend (Universal Basic Income)](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-citizens-dividend-universal-basic-income)
-    - [Section 3: Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-economy)
+    - [Section 2: Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-economy)
         - [Segment 1: Establishment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-establishment)
             - [Paragraph 1: Promabank](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-promabank)
             - [Paragraph 2: Ministry of Taxation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-ministry-of-taxation)
@@ -21,18 +12,27 @@
             - [Paragraph 6: Ministry of National Investment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-6-ministry-of-national-investment)
             - [Paragraph 7: Ministry of the Treasury](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-7-ministry-of-the-treasury)
         - [Segment 2: Purpose](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-purpose)
-    - [Section 2: Electable Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-electable-positions)
+    - [Section 3: Electable Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-electable-positions)
         - [Segment 1: Minister](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-minister)
             - [Paragraph 1: Position](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-position)
             - [Paragraph 2: Election Method](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-election-method)
-    -  [Section 3: Remuneration](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-remuneration)
-    -  [Section 4: Payments Systems Board](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-payments-systems-board)
+    -  [Section 4: Remuneration](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-remuneration)
+    -  [Section 5: Payments Systems Board](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-5-payments-systems-board)
         -  [Segment 1: Preamble](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-preamble)
         -  [Segment 2: Board Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-board-positions)
         -  [Segment 3: Appointed Staff](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-appointed-staff)
-    -  [Section 5: Managment Structure](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-5-management-structure)
+    -  [Section 6: Managment Structure](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-6-management-structure)
         -  [Segment 1: Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-positions)
         -  [Segment 2: Appointment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-appointment)
+- [Part 2: Structure of the Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-2-structure-of-the-economy)
+    - [Section 1: General Summary](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-general-summary)
+    - [Section 2: State-Owned Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-state-owned-enterprises)
+        - [Segment 1: Overview](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-overview)
+        - [Segment 2: List of Government Enterprises](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-list-of-government-enterprises)
+        - [Segment 3: Stock & Par Value](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-stock--par-value)
+        - [Segment 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-sale-of-stock)
+        - [Segment 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-5-removal-from-government-control)
+    - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-citizens-dividend-universal-basic-income)
 -  [Part 3: Currency](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-3-currency)
     - [Section 1: Proma](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-proma)
         - [Segment 1: Name](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-name)
@@ -80,54 +80,7 @@
 ### Section 1: Preamble
 The foundation of this act is to provide and formalise the infrastructure, powers, and responsibilities of the Ministry of the Economy, as well as all of its organisational structure.
 
-### Section 2: Structure of the Economy
-
-#### Segment 1: General Summary
-The economy of Promatia follows a unique structure laid out by the democratic will of the people. The Government is involved in planning under its state-owned enterprises. In addition, there are significant structures allowing cooperative, individual, and private enterprises to be formed.
-
-#### Segment 2: State-Owned Enterprises
-
-##### Paragraph 1: Overview
-The Government participates in the economy through its control over important industries, which include:
-- Healthcare
-- Utilities
-- Banking
-- Housing
-- Land
-- Manufacturing
-- Mining
-- Natural gas and oil
-- Mail
-
-##### Paragraph 2: List of Government Enterprises
-The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Promatia):
-1. Promatia Healthcare Company ("Prohealth")
-2. Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
-3. Bank of Promatia ("Promabank")
-4. Promatia Housing Company ("Prohouse")
-5. Promatia Land Company ("Proland")
-6. Promatia Manufacturing Company ("Promanu")
-7. Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
-8. Promatia Gas & Oil Company ("PG&O", "Progo"), which shall have monopoly power
-9. Promatia Mail Company ("Promail")
-10. Promatia Transportation Company ("Protrans")
-
-#### Paragraph 3: Stock & Par Value
-These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Promas, except for the Promatia Land Company and the Promatia Mail Company.
-
-#### Paragraph 4: Sale of Stock
-The Ministry of the Economy may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Progo may not be sold.
-
-#### Paragraph 5: Removal from Government Control
-Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company. Progo may not be removed from government control.
-
-#### Segment 3: Citizens' Dividend (Universal Basic Income)
-1. All surplus profits of the Government's share of State-Owned Enterprises not reinvested into those enterprises are to be distributed to all citizens evenly as the Citizens' Dividend.
-2. The Minister of the Economy may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year in profitable years or relying on surpluses from previous years.
-3. The Government (acting through the Ministry of the Economy and its involved subministries) and State-Owned Enterprises will work to increase the Universal Basic Income at least by the rate of inflation each year.
-    1. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
-
-### Section 3: Economy
+### Section 2: Economy
 
 #### Segment 1: Establishment
 
@@ -160,7 +113,7 @@ The purpose of the Ministry of the Economy is to
 - Support the economy through the creation of Promas and independent management of credit
 - Facilitate investment in Promatia, both public and private
 
-### Section 2: Electable Positions
+### Section 3: Electable Positions
 
 #### Segment 1: Minister
 
@@ -170,10 +123,10 @@ There shall be a Minister of the Economy.
 ##### Paragraph 2: Election Method
 The minister shall be elected by the Assembly via Instant Runoff Voting (IRV).
 
-### Section 3: Remuneration
+### Section 4: Remuneration
 Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other Ministries of Promabank.
 
-### Section 4: Payments Systems Board
+### Section 5: Payments Systems Board
 
 #### Segment 1: Preamble
 The Payments System Board exists to develop, improve the payments system of Promatia, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other Ministries.
@@ -188,7 +141,7 @@ The Board shall consist of:
 #### Segment 3: Appointed Staff
 The Minister may appoint up to 2 staff of the Ministry of the Economy to be part of the Payments Systems Board.
 
-### Section 5: Management Structure
+### Section 6: Management Structure
 
 #### Segment 1: Positions
 The management structure shall consist of a
@@ -198,6 +151,53 @@ The management structure shall consist of a
 
 #### Segment 2: Appointment
 All management positions shall be appointed by the Minister.
+
+## Part 2: Structure of the Economy
+
+### Section 1: General Summary
+The economy of Promatia follows a unique structure laid out by the democratic will of the people. The Government is involved in planning under its state-owned enterprises. In addition, there are significant structures allowing cooperative, individual, and private enterprises to be formed.
+
+### Section 2: State-Owned Enterprises
+
+### Segment 1: Overview
+The Government participates in the economy through its control over important industries, which include:
+- Healthcare
+- Utilities
+- Banking
+- Housing
+- Land
+- Manufacturing
+- Mining
+- Natural gas and oil
+- Mail
+
+#### Segment 2: List of Government Enterprises
+The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Promatia):
+1. Promatia Healthcare Company ("Prohealth")
+2. Promatia Utilities Company ("Spark", "Proutilities", "Proutil")
+3. Bank of Promatia ("Promabank")
+4. Promatia Housing Company ("Prohouse")
+5. Promatia Land Company ("Proland")
+6. Promatia Manufacturing Company ("Promanu")
+7. Promatia Mining Company ("Promine"), which must be at least a 50% shareholder of every mining operation in Promatia
+8. Promatia Gas & Oil Company ("PG&O", "Progo"), which shall have monopoly power
+9. Promatia Mail Company ("Promail")
+10. Promatia Transportation Company ("Protrans")
+
+#### Segment 3: Stock & Par Value
+These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Promas, except for the Promatia Land Company and the Promatia Mail Company.
+
+#### Segment 4: Sale of Stock
+The Ministry of the Economy may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Progo may not be sold.
+
+#### Segment 5: Removal from Government Control
+Should the people decide to remove control of these enterprises from state control, each citizen of Promatia at that time shall become an equal owner of the stock of the company. Progo may not be removed from government control.
+
+### Section 3: Citizens' Dividend (Universal Basic Income)
+1. All surplus profits of the Government's share of State-Owned Enterprises not reinvested into those enterprises are to be distributed to all citizens evenly as the Citizens' Dividend.
+2. The Minister of the Economy may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year in profitable years or relying on surpluses from previous years.
+3. The Government (acting through the Ministry of the Economy and its involved subministries) and State-Owned Enterprises will work to increase the Universal Basic Income at least by the rate of inflation each year.
+    1. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
 
 ## Part 3: Currency
 
@@ -360,7 +360,8 @@ Transaction data includes
 
 ### Section 2: Taxes
 #### Paragraph 1: Enterprise Tax
-All enterprises operating in Promatia are required to pay the following percentages of their profits as a tax to the Ministry of Taxation:
+All enterprises operating in Promatia except for worker's cooperative enterprises and mutual aid and community organisations are required to pay the following percentages of their incomes after expenses as a tax to the Ministry of Taxation:
+
 Annual profit range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on that range (Ⱀ)
 -|-|-
 0-20,000|0|0
@@ -412,7 +413,3 @@ All sales of the following products are subject to a 20% excise tax:
 4. Petrol
 5. Natural gas
 6. Oil
-
-#### Paragraph 6: Exemptions
-1. Worker's cooperative enterprises are exempted from business taxes.
-2. Mutual aid and community organisations are exempted from business taxes.
