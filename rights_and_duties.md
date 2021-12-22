@@ -8,7 +8,7 @@ This act lists out the rights and duties of every person in Promatia.
 The purpose of this act lay out and conserve Promatia's compulsory human rights and to define the lawful and democratic duties of Promatian citizens and foreigners in Promatia when applicable.
 
 ### Section 3: Jurisdiction
-The jurisdiction of D2§1 belongs to the Ministry of Police. The jurisdiction of D2§2 belongs to the Ministry of Justice and the Ministry of Human Services. The jurisdiction of D2§3 belongs to the Ministry of Labour.
+The jurisdiction of individual liberties belongs to the Ministry of Police. The jurisdiction of government liberties belongs to the Ministry of Justice and the Ministry of Human Services. The jurisdiction of conditional liberties belongs to the Ministry of Labour and the Ministry of Welfare.
 
 ### Section 4: Definitions
 - **Mature Age**: 16 years of age
@@ -56,7 +56,7 @@ The Universal Declaration of Human Rights is recognized as an extension of this 
 - Everyone has the right to enjoy and entertain themselves.
 - Everyone has the right to healthcare.
 
-## Division: Duties
+## Division 3: Duties
 1. Respect the lawful decisions of the people voiced through the direct democratic system
 3. Respect all rights
 4. Protest or overthrow the government, any government official, or any government organisation should it reject a decision of the people
