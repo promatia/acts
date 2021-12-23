@@ -77,7 +77,7 @@
 ## Part 1: Foundation
 
 ### Section 1: Preamble
-The foundation of this act is to provide and formalise the infrastructure, powers, and responsibilities of the Ministry of the Economy, as well as all of its organisational structure.
+The purpose of this act is to provide and formalise the infrastructure, powers, and responsibilities of the Ministry of the Economy, as well as all of its organisational structure.
 
 ### Section 2: Economy
 
