@@ -34,7 +34,7 @@
         - [Segment 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-sale-of-stock)
         - [Segment 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-5-removal-from-government-control)
     - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-citizens-dividend-universal-basic-income)
-    - [Section 4: New Adult Gift]((https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-new-adult-gift)
+    - [Section 4: New Adult Gift](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-new-adult-gift)
 -  [Part 3: Currency](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-3-currency)
     - [Section 1: Proma](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-proma)
         - [Segment 1: Name](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-name)
