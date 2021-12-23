@@ -11,6 +11,7 @@
             - [Paragraph 5: Ministry of Trade](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-ministry-of-trade)
             - [Paragraph 6: Ministry of National Investment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-6-ministry-of-national-investment)
             - [Paragraph 7: Ministry of the Treasury](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-7-ministry-of-the-treasury)
+            - [Paragraph 8: Ministry of Remuneration](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-8-ministry-of-remuneration)
         - [Segment 2: Purpose](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-2-purpose)
     - [Section 3: Electable Positions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-electable-positions)
         - [Segment 1: Minister](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-minister)
@@ -105,6 +106,9 @@ There shall exist a Ministry of National Investment, a subministry of the Minist
 ##### Paragraph 7: Ministry of the Treasury
 There shall exist a Ministry of the Treasury, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall supervise government assets and the government bank account.
 
+##### Paragraph 8: Ministry of Remuneration
+There shall exist a Ministry of Remuneration, an independent subministry of the Ministry of the Economy, which shall serve as the independent council that shall decide government employee salaries and assist in efficient allocation of employees and resources for government funds.
+
 #### Segment 2: Purpose
 The purpose of the Ministry of the Economy is to
 - Finance the people, businesses, organisations, and government of Promatia
@@ -118,13 +122,13 @@ The purpose of the Ministry of the Economy is to
 #### Segment 1: Minister
 
 ##### Paragraph 1: Position
-There shall be a Minister of the Economy.
+There shall be a Minister of the Economy, who has the authority to appoint subministers.
 
 ##### Paragraph 2: Election Method
 The minister shall be elected by the Assembly via Instant Runoff Voting (IRV).
 
 ### Section 4: Remuneration
-Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other Ministries of Promabank.
+Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other subministries of the Ministry of the Economy.
 
 ### Section 5: Payments Systems Board
 
