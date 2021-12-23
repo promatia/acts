@@ -34,6 +34,7 @@
         - [Segment 4: Sale of Stock](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-sale-of-stock)
         - [Segment 5: Removal from Government Control](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-5-removal-from-government-control)
     - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-citizens-dividend-universal-basic-income)
+    - [Section 4: New Adult Gift]((https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-new-adult-gift)
 -  [Part 3: Currency](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-3-currency)
     - [Section 1: Proma](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-proma)
         - [Segment 1: Name](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-name)
@@ -202,6 +203,9 @@ Should the people decide to remove control of these enterprises from state contr
 2. The Minister of the Economy may determine what share of profits are to be paid out as dividends or reinvested and the frequency of payments, but dividends may not represent more than 90% of profits and no less than 10% of profits and shall be paid no later than once per year in profitable years or relying on surpluses from previous years.
 3. The Government (acting through the Ministry of the Economy and its involved subministries) and State-Owned Enterprises will work to increase the Universal Basic Income at least by the rate of inflation each year.
     1. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
+
+### Section 4: New Adult Gift
+On the 18th birthday of each Promatian citizen, the Bank of Promatia shall deposit 50,000 Promas (increasing with inflation) into their bank account with funds derived primarily from the estate tax.
 
 ## Part 3: Currency
 
