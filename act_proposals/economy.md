@@ -4,7 +4,7 @@
     - [Section 1: Preamble](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-preamble)
     - [Section 2: Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-economy)
         - [Segment 1: Establishment](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-1-establishment)
-            - [Paragraph 1: Promabank](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-promabank)
+            - [Paragraph 1: Ministry of the Economy](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-ministry-of-the-economy)
             - [Paragraph 2: Ministry of Taxation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-ministry-of-taxation)
             - [Paragraph 3: Ministry of Monetary Regulation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-minsitry-of-monetary-regulation)
             - [Paragraph 4: Ministry of the Budget](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-ministry-of-the-budget)
@@ -68,13 +68,11 @@
         - [Segment 3: Fees](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-3-fees)
         - [Segment 4: Transaction Data](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#segment-4-transaction-data)
 - [Part 7: Taxation](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#part-7-taxation)
-    - [Section 1: Ministry](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-ministry)
-    - [Section 2: Taxes](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-taxes)
-        - [Paragraph 1: Enterprise Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-1-enterprise-tax)
-        - [Paragraph 2: Land Value Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-2-land-value-tax)
-        - [Paragraph 3: Transaction Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-transaction-tax)
-        - [Paragraph 4: Estate Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-estate-tax)
-        - [Paragraph 5: Excise Taxes](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-excise-taxes)
+    - [Section 1: Enterprise Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-1-enterprise-tax)
+    - [Section 2: Land Value Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-2-land-value-tax)
+    - [Section 3: Transaction Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-3-transaction-tax)
+    - [Section 4: Estate Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-4-estate-tax)
+    - [Section 5: Excise Taxes](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#section-5-excise-taxes)
 
 ## Part 1: Foundation
 
@@ -85,7 +83,7 @@ The foundation of this act is to provide and formalise the infrastructure, power
 
 #### Segment 1: Establishment
 
-##### Paragraph 1: Promabank
+##### Paragraph 1: Ministry of the Economy
 There shall exist the Ministry of the Economy.
 
 ##### Paragraph 2: Ministry of Taxation
@@ -122,7 +120,7 @@ The purpose of the Ministry of the Economy is to
 #### Segment 1: Minister
 
 ##### Paragraph 1: Position
-There shall be a Minister of the Economy, who has the authority to appoint subministers.
+There shall be a Minister of the Economy, who has the authority to appoint Ministers fo all of the subministries of the Ministry of the Economy.
 
 ##### Paragraph 2: Election Method
 The minister shall be elected by the Assembly via Instant Runoff Voting (IRV).
@@ -361,12 +359,7 @@ Transaction data includes
 
 ## Part 7: Taxation
 
-### Section 1: Ministry
-1. There shall exist the Ministry of Taxation, which is a subministry of the Ministry of the Economy.
-2. The leader of the Ministry of Taxation is the Minister of Taxation, who shall be appointed by the Minister of the Economy.
-
-### Section 2: Taxes
-#### Paragraph 1: Enterprise Tax
+### Section 1: Enterprise Tax
 All enterprises operating in Promatia except for worker's cooperative enterprises and mutual aid and community organisations are required to pay the following percentages of their incomes after expenses as a tax to the Ministry of Taxation:
 
 Annual profit range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on that range (Ⱀ)
@@ -376,10 +369,10 @@ Annual profit range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on t
 100,000-1,000,000|10|90,000
 1,000,000+|15|∞
 
-#### Paragraph 2: Land Value Tax
+### Section 2: Land Value Tax
 All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
 
-#### Paragraph 3: Transaction Tax
+### Section 3: Transaction Tax
 1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
 
 Annual income (Ⱀ)|Transaction tax added (%)
@@ -403,7 +396,7 @@ Wealth (Ⱀ)|Transaction tax added (%)
 2. For example, if an individual has an income of 75,000 Ⱀ per year and a wealth of 750,000 Ⱀ, their transaction tax total would be 3.5% (1% for their income bracket and 1.5% for their wealth bracket). If they bought a product or service that costs 100 Ⱀ, their tax would be 3.5 Ⱀ.
 3. Information about income and wealth are required to be kept confidential on all Promabank systems. Therefore, transaction tax information is confidential as well and should not be provided to any worker or on any receipt unless authorised by that customer.
 
-#### Paragraph 4: Estate Tax
+### Section 4: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Promatia based on the total amount of money being inherited.
 Inheritance range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on that range (Ⱀ)
 -|-|-
@@ -412,7 +405,7 @@ Inheritance range (Ⱀ)|Tax rate on that range (%)|Maximum applicable tax on tha
 100,000-1,000,000|50|450,000
 1,000,000+|70|∞
 
-#### Paragraph 5: Excise Taxes
+### Section 5: Excise Taxes
 All sales of the following products are subject to a 20% excise tax:
 1. Luxury goods
 2. Recreational drugs
