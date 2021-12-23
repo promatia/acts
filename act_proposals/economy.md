@@ -75,7 +75,6 @@
         - [Paragraph 3: Transaction Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-3-transaction-tax)
         - [Paragraph 4: Estate Tax](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-4-estate-tax)
         - [Paragraph 5: Excise Taxes](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-5-excise-taxes)
-        - [Paragraph 6: Exemptions](https://github.com/promatia/acts/blob/master/act_proposals/economy.md#paragraph-6-exemptions)
 
 ## Part 1: Foundation
 
