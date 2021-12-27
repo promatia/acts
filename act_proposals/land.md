@@ -1,7 +1,7 @@
 # Land Act
 
 
-## Division 1: Foundation
+## Part 1: Foundation
 
 ### Section 1: Preamble
 The purpose of this act is to provide and formalise the powers and responsibilities of Promaland (the Ministry of Land), as well as all of its organisational structure.
@@ -24,7 +24,7 @@ The purpose of Promaland is to:
 There shall be a Minister of Land. The Minister of Land shall be elected by the Assembly via Instant Runoff Voting (IRV). Remuneration of the organisation executives shall be determined by the Promabank Subministry of Remuneration, a board of individuals appointed by IRV.
 
 
-## Division 2: Land Registry
+## Part 2: Land Registry
 
 ### Section 1: Creation of a Land Registry
 Promaland shall maintain an online registry of land ownership.
