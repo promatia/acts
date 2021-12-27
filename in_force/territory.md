@@ -2,7 +2,7 @@
 
 ## Division 1: Territory
 ### Section 1: Claimed Territory
-The territory of Promatia under the authority of the Government encompasses all territory of the Commonwealth of Australia east of the 135th meridian east, north of the 17th parallel south, and south of the 15th parallel south.
+The territory of Promatia under the authority of the Government encompasses all territory of the Commonwealth of Australia north of the 17th parallel south, east of the 135th meridian east; south of the 15th parallel south; and west of the 140th merdian east.
 
 ### Section 2: Self-Determination
 #### Paragraph 1: Cities & Towns
