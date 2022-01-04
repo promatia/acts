@@ -1,5 +1,13 @@
 # Territory Act
 
+## Contents
+
+1. [Division 1: Territory](https://github.com/promatia/acts/blob/master/in_force/territory.md#division-1-territory)
+    1. [Section 1: Claimed Territory](https://github.com/promatia/acts/blob/master/in_force/territory.md#section-1-claimed-territory)
+    2. [Section 2: Self-Determination](https://github.com/promatia/acts/blob/master/in_force/territory.md#section-2-self-determination)
+        1. [Paragraph 1: Cities & Towns](https://github.com/promatia/acts/blob/master/in_force/territory.md#paragraph-1-cities--towns)
+        2. [Paragraph 2: Aboriginal Populations](https://github.com/promatia/acts/blob/master/in_force/territory.md#paragraph-2-aboriginal-populations)
+
 ## Division 1: Territory
 ### Section 1: Claimed Territory
 The territory of Promatia under the authority of the Government encompasses all territory of the Commonwealth of Australia north of the 17th parallel south, east of the 135th meridian east; south of the 15th parallel south; and west of the 140th merdian east.
