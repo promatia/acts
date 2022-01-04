@@ -1,5 +1,26 @@
 # Symbols Act
 
+## Contents
+
+1. [Division 1: Act](https://github.com/promatia/acts/blob/master/in_force/symbols.md#division-1-act)
+    1. [Section 1: Name](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-1-name)
+    2. [Section 2: Type](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-2-type)
+2. [Division 2: Symbols](https://github.com/promatia/acts/blob/master/in_force/symbols.md#division-2-symbols)
+    1. [Section 1: Purpose](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-1-purpose)
+    2. [Section 2: Name](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-2-name)
+        1. [Paragraph 1: Name](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-1-name)
+        2. [Paragraph 2: Demonym](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-demonym)
+    3. [Section 3: Mottos](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-3-mottos)
+    4. [Section 4: Flag](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-4-flag)
+        1. [Paragraph 1: Image](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-1-image)
+        2. [Paragraph 2: Colors](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-colors)
+    5. [Section 5: Emblem](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-5-state-emblem)
+    6. [Section 6: Capital City](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-6-capital-city)
+    7. [Section 7: Language](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-7-language)
+    8. [Section 8: Holidays](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-8-holidays)
+        1. [Paragraph 1: List](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-1-list)
+        2. [Paragraph 2: Monetary Award](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-monetary-award)
+
 ## Division 1: Act
 
 ### Section 1: Name
@@ -34,22 +55,27 @@ The official mottos of Promatia shall be:
 1. **Vi veri vniversum vivus vici** a Latin phrase, of which the official translation shall be "By the power of truth, I while living, have conquered the universe".
 2. **The Modern Solution To Governance**
 
-### Section 3: Flag
+### Section 4: Flag
 
 #### Paragraph 1: Image
+<img src="https://user-images.githubusercontent.com/21011694/148120568-f3ede981-5c09-442b-83f3-b83c8c58f987.png" alt="Flag" title="Flag" width="300"/>
+
 #### Paragraph 2: Colors
 1. Promatia Blue: Hexadecimal #366FBE
 2. White: Hexadecimal #FFFFFF
 
-### Section 4: State Emblem
+### Section 5: Emblem
+The Emblem of Promatia is the Pentark (5 Arks focused around a central point) surrounded by `Vi veri vniversum vivus vici` in all-caps. The official Government rendering shall be included below:
 
-### Section 5: Capital City
+<img src="https://user-images.githubusercontent.com/21011694/148119337-50927b19-e1b1-41bf-a832-2c6e01302392.png" alt="Emblem" title="Emblem" width="150"/>
+
+### Section 6: Capital City
 The capital city of Promatia, and thus the city housing the headquarters of the Government, is the **City of Lumina**.
 
-### Section 6: Language
+### Section 7: Language
 The official language of Promatia shall be **Australian English**, with the IETF BCP 47 Language Tag of `en-au`.
 
-### Section 7: Holidays
+### Section 8: Holidays
 #### Paragraph 1: List
 The list of Government holidays shall include:
 | Name | Date | Type |
