@@ -12,8 +12,9 @@
         2. [Paragraph 2: Demonym](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-demonym)
     3. [Section 3: Mottos](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-3-mottos)
     4. [Section 4: Flag](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-4-flag)
-        1. [Paragraph 1: Image](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-1-image)
-        2. [Paragraph 2: Colors](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-colors)
+        1. [Paragraph 1: Description](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-1-description)
+        2. [Paragraph 2: Image](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-image)
+        3. [Paragraph 2: Colors](https://github.com/promatia/acts/blob/master/in_force/symbols.md#paragraph-2-colors)
     5. [Section 5: Emblem](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-5-state-emblem)
     6. [Section 6: Capital City](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-6-capital-city)
     7. [Section 7: Language](https://github.com/promatia/acts/blob/master/in_force/symbols.md#section-7-language)
@@ -57,10 +58,15 @@ The official mottos of Promatia shall be:
 
 ### Section 4: Flag
 
-#### Paragraph 1: Image
+#### Paragraph 1: Description
+1. The flag of Promatia has a field of Promatia Blue with the Pentark design centered.
+2. The flag of the Government of Promatia is the same as the flag of Promatia but with the Emblem of Promatia instead of the Pentark.
+
+#### Paragraph 2: Image
+The official Government rendering of the flag of Promatia is as follows:
 <img src="https://user-images.githubusercontent.com/21011694/148120568-f3ede981-5c09-442b-83f3-b83c8c58f987.png" alt="Flag" title="Flag" width="300"/>
 
-#### Paragraph 2: Colors
+#### Paragraph 3: Colors
 1. Promatia Blue: Hexadecimal #366FBE
 2. White: Hexadecimal #FFFFFF
 
