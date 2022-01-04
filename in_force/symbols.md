@@ -60,10 +60,12 @@ The official mottos of Promatia shall be:
 
 #### Paragraph 1: Description
 1. The flag of Promatia has a field of Promatia Blue with the Pentark design centered.
-2. The flag of the Government of Promatia is the same as the flag of Promatia but with the Emblem of Promatia instead of the Pentark.
+2. The ratio of the flag of Promatia is 1:2.
+3. The flag of the Government of Promatia is the same as the flag of Promatia but with the Emblem of Promatia instead of the Pentark.
 
 #### Paragraph 2: Image
 The official Government rendering of the flag of Promatia is as follows:
+
 <img src="https://user-images.githubusercontent.com/21011694/148120568-f3ede981-5c09-442b-83f3-b83c8c58f987.png" alt="Flag" title="Flag" width="300"/>
 
 #### Paragraph 3: Colors
